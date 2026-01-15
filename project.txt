@@ -478,6 +478,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"59904",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -551,6 +564,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"59971",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -741,6 +767,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -754,6 +792,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"60508",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -787,6 +838,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"64843",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -800,6 +864,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"64857",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -817,6 +894,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"64871",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -830,6 +920,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"64885",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -905,6 +1008,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"64955",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -1701,7 +1817,7 @@
 "type":"graded",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si54164"],
+"correctAnswers":[],
 "score":{
 "weight":1,
 "penalty":0
@@ -3249,7 +3365,7 @@
 "type":"graded",
 "interactionType":"choice",
 "ramdomized":true,
-"correctAnswers":["si56987"],
+"correctAnswers":[],
 "score":{
 "weight":1,
 "penalty":0
@@ -4748,7 +4864,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4764,7 +4880,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4780,7 +4896,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4796,7 +4912,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4812,7 +4928,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4828,7 +4944,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4844,7 +4960,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4860,7 +4976,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4876,7 +4992,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4892,7 +5008,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4909,7 +5025,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4926,7 +5042,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4943,7 +5059,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4960,7 +5076,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4977,7 +5093,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -4994,7 +5110,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -5011,7 +5127,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -5028,7 +5144,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide57837q3"
+"question":"Slide57837q6"
 }
 ,
 "textData":{
@@ -5984,7 +6100,7 @@
 "type":"graded",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si55270"],
+"correctAnswers":[],
 "score":{
 "weight":1,
 "penalty":0
@@ -6873,7 +6989,7 @@
 "type":"graded",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si59027"],
+"correctAnswers":[],
 "score":{
 "weight":1,
 "penalty":0
@@ -8281,7 +8397,6 @@
 }
 ,
 "question":{
-"interactionId":"53606",
 "quizId":-1,
 "text":"",
 "type":"graded",
@@ -8308,6 +8423,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -8323,6 +8450,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -8336,6 +8475,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"53642",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -9171,9 +9323,9 @@
 
 },
 {
-"id":"Video Draft 12- 1-14-26 Revised quiz",
+"id":"Final_Video Draft 13- 1-15-26 Revised quiz",
 "class":"project",
-"title":"Video Draft 12- 1-14-26 Revised quiz",
+"title":"Final_Video Draft 13- 1-15-26 Revised quiz",
 "children":["Slide24910","Slide45138","Slide60010","Slide63314","Slide60547","Slide63650","Slide63503","Slide53988","Slide64823","Slide63983","Slide60616","Slide63848","Slide46813","Slide56811","Slide64103","Slide46888","Slide54558","Slide64223","Slide47061","Slide57837","Slide64343","Slide47234","Slide55106","Slide64463","Slide47505","Slide58851","Slide64703","Slide47580","Slide63434","Slide61807","Slide53712","Slide59239","Slide48014"],
 "roles":{
 "quiz":{
@@ -9181,7 +9333,7 @@
 "branched":false,
 "submitAll":false,
 "review":true,
-"questions":["Slide53988q0","Slide54558q5","Slide55106q4","Slide56811q1","Slide57837q3","Slide58851q6","Slide61807q6"],
+"questions":["Slide53988q4","Slide54558q5","Slide55106q6","Slide56811q4","Slide57837q6","Slide58851q6","Slide61807q6"],
 "minScore":0,
 "maxScore":11,
 "passScore":9
@@ -9225,6 +9377,11 @@
 ,
 "exitNormalIfCompleted":false
 }
+,"eventVideos":[{
+"id":"si60497",
+"uri":"vr/Vi63510.mp4"
+}
+]
 ,"toc":[{
 "id":"Slide24910",
 "title":"Welcome"
