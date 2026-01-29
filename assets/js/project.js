@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:28801,
-to:28890,
+from:31931,
+to:32020,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -25192,8 +25192,8 @@ vb:[-2,-2,-1,-1]
 Slide60616:{
 lb:'Tactic 1 video - 2',
 id:60616,
-from:6711,
-to:9660,
+from:28981,
+to:31930,
 iols:0,
 i360qs:false,
 sdu:98.3,
@@ -25248,12 +25248,12 @@ se:false
 ,
 bph:[{
 ob:'{"scripts":[{"then":[["cp.show([\\"si65230\\"],65383);"]]}]}',
-bt:34
+bt:18.7
 }
 ]
 ,
 bookmarks:[{
-offsetTime:34,
+offsetTime:18.7,
 id:65370,
 iid:[65372]
 }
@@ -97656,7 +97656,7 @@ text:[]
 }
 ,{
 link:60616,
-text:['""']
+text:['""','""']
 }
 ,{
 link:63848,
