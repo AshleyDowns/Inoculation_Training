@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:29701,
-to:29790,
+from:33641,
+to:33730,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -4027,8 +4027,8 @@ vb:[-2,-2,-1,-1]
 Slide45138:{
 lb:'Welcome zoom in',
 id:45138,
-from:181,
-to:270,
+from:30241,
+to:30330,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -4073,13 +4073,13 @@ bc:'#f8f7f4',
 fa:1,
 fe:true,
 imgf:{
-ip:'dr/068907.png',
+ip:'dr/070119.png',
 tiletype:0,
 imageFocus:0,
 extraImageProps:'',
-id:68907,
-w:1427,
-h:800,
+id:70119,
+w:2404,
+h:1328,
 tsp:50
 }
 ,
@@ -7273,8 +7273,8 @@ visible:'1'
 si68488:{
 name:'Paragraph_46',
 type:1268,
-from:541,
-to:630,
+from:33731,
+to:33820,
 rp:0,
 rpa:0,
 mdi:'si68488c',
@@ -7441,8 +7441,8 @@ vb:[-1,-1,1,1]
 si68482:{
 name:'Paragraph_Group_40',
 type:1268,
-from:541,
-to:630,
+from:33731,
+to:33820,
 rp:0,
 rpa:0,
 mdi:'si68482c',
@@ -7622,8 +7622,8 @@ vb:[-1,-1,1,1]
 si68425:{
 name:'Text_1205',
 type:1250,
-from:541,
-to:630,
+from:33731,
+to:33820,
 rp:0,
 rpa:0,
 mdi:'si68425c',
@@ -7653,7 +7653,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"blsll","text":"They quietly manipulate what your brain prioritizes throughout your day.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":72,"style":"textShadowX:0px"},{"offset":0,"length":72,"style":"fontStretch:normal"},{"offset":0,"length":72,"style":"fontType:regular"},{"offset":0,"length":72,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":72,"style":"textShadowY:4px"},{"offset":0,"length":72,"style":"letterSpacing:0%"},{"offset":0,"length":72,"style":"textHighlightEnable:false"},{"offset":0,"length":72,"style":"textTransform:none"},{"offset":0,"length":72,"style":"textShadowOpacity:none"},{"offset":0,"length":72,"style":"overridden:true"},{"offset":0,"length":72,"style":"textDecoration:none"},{"offset":0,"length":72,"style":"lineHeight:130%"},{"offset":0,"length":72,"style":"fontFamily:Georgia"},{"offset":0,"length":72,"style":"borderBottomStyle:none"},{"offset":0,"length":72,"style":"textShadowEnable:false"},{"offset":0,"length":72,"style":"hlnk:"},{"offset":0,"length":72,"style":"fontWeight:normal"},{"offset":0,"length":72,"style":"textShadowBlur:8px"},{"offset":0,"length":13,"style":"color:#f7f7f4"},{"offset":23,"length":49,"style":"color:#f7f7f4"},{"offset":0,"length":72,"style":"desktop-fontSize:48"},{"offset":0,"length":72,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":72,"style":"textShadowColor:#19191929"},{"offset":0,"length":72,"style":"textShadow:none"},{"offset":0,"length":72,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":72,"style":"hlnkt:wp"},{"offset":0,"length":72,"style":"defaultTextStrokeColor:#191919"},{"offset":13,"length":10,"style":"color:#abefe7"},{"offset":0,"length":72,"style":"fontStyle:normal"},{"offset":0,"length":72,"style":"tablet-fontSize:20"},{"offset":0,"length":72,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":72,"style":"textOutlineEnable:false"},{"offset":0,"length":72,"style":"opacity:1"},{"offset":0,"length":72,"style":"hlnke:true"},{"offset":0,"length":72,"style":"defaultTextShadow:none"},{"offset":0,"length":72,"style":"backgroundColor:unset"},{"offset":0,"length":72,"style":"mobile-fontSize:18"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"blsll","text":"They quietly manipulate what your brain prioritizes throughout your day.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":72,"style":"fontWeight:normal"},{"offset":0,"length":72,"style":"textShadowBlur:8px"},{"offset":0,"length":13,"style":"color:#f7f7f4"},{"offset":23,"length":49,"style":"color:#f7f7f4"},{"offset":0,"length":72,"style":"desktop-fontSize:48"},{"offset":0,"length":72,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":72,"style":"textShadowColor:#19191929"},{"offset":0,"length":72,"style":"mobile-fontSize:18"},{"offset":0,"length":72,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":72,"style":"hlnkt:wp"},{"offset":0,"length":72,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":72,"style":"tablet-fontSize:20"},{"offset":0,"length":72,"style":"fontStyle:normal"},{"offset":0,"length":72,"style":"textOutlineEnable:false"},{"offset":0,"length":72,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":72,"style":"opacity:1"},{"offset":0,"length":72,"style":"hlnke:true"},{"offset":0,"length":72,"style":"defaultTextShadow:none"},{"offset":0,"length":72,"style":"backgroundColor:unset"},{"offset":0,"length":72,"style":"textShadow:none"},{"offset":0,"length":72,"style":"textShadowX:0px"},{"offset":0,"length":72,"style":"fontStretch:normal"},{"offset":0,"length":72,"style":"fontType:regular"},{"offset":0,"length":72,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":72,"style":"textShadowY:4px"},{"offset":0,"length":72,"style":"letterSpacing:0%"},{"offset":0,"length":72,"style":"textHighlightEnable:false"},{"offset":0,"length":72,"style":"textTransform:none"},{"offset":0,"length":72,"style":"textShadowOpacity:none"},{"offset":0,"length":72,"style":"overridden:true"},{"offset":0,"length":72,"style":"textDecoration:none"},{"offset":0,"length":72,"style":"lineHeight:130%"},{"offset":0,"length":72,"style":"fontFamily:Georgia"},{"offset":0,"length":72,"style":"borderBottomStyle:none"},{"offset":0,"length":72,"style":"textShadowEnable:false"},{"offset":0,"length":72,"style":"hlnk:"},{"offset":13,"length":10,"style":"color:#c896fa"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -8238,8 +8238,8 @@ vb:[-2,-2,-1,-1]
 Slide68510:{
 lb:'Multiple choice A1 - 8',
 id:68510,
-from:541,
-to:630,
+from:33731,
+to:33820,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -16429,8 +16429,8 @@ vb:[-2,-2,-1,-1]
 Slide63503:{
 lb:'Tactic 1 video - 3',
 id:63503,
-from:3851,
-to:6800,
+from:30331,
+to:33280,
 iols:0,
 i360qs:false,
 sdu:98.3,
@@ -16485,12 +16485,12 @@ se:false
 ,
 bph:[{
 ob:'{"scripts":[{"then":[["cp.show([\\"si65039\\"],65198);"]]}]}',
-bt:40
+bt:54
 }
 ]
 ,
 bookmarks:[{
-offsetTime:40,
+offsetTime:54,
 id:65185,
 iid:[65187]
 }
@@ -83329,8 +83329,8 @@ visible:'1'
 si61766:{
 name:'',
 type:1268,
-from:28711,
-to:28800,
+from:33281,
+to:33370,
 rp:0,
 rpa:0,
 mdi:'si61766c',
@@ -83505,8 +83505,8 @@ vb:[-1,-1,1,1]
 si61686:{
 name:'$container-match-the-column-card_name_3',
 type:1268,
-from:28711,
-to:28800,
+from:33281,
+to:33370,
 rp:0,
 rpa:0,
 mdi:'si61686c',
@@ -85125,8 +85125,8 @@ vb:[-2,-2,-1,-1]
 si61617:{
 name:'Text_1154',
 type:1250,
-from:28711,
-to:28800,
+from:33281,
+to:33370,
 rp:0,
 rpa:0,
 mdi:'si61617c',
@@ -85156,7 +85156,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"3rqr4","text":"Pulling-to-refresh for new content","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":34,"style":"backgroundColor:unset"},{"offset":0,"length":34,"style":"mobile-fontSize:18"},{"offset":0,"length":34,"style":"textShadowX:0px"},{"offset":0,"length":34,"style":"fontStretch:normal"},{"offset":0,"length":34,"style":"fontType:regular"},{"offset":0,"length":34,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":34,"style":"textShadowY:4px"},{"offset":0,"length":34,"style":"letterSpacing:0%"},{"offset":0,"length":34,"style":"textHighlightEnable:false"},{"offset":0,"length":34,"style":"textTransform:none"},{"offset":0,"length":34,"style":"textShadowOpacity:none"},{"offset":0,"length":34,"style":"overridden:true"},{"offset":0,"length":34,"style":"textDecoration:none"},{"offset":0,"length":34,"style":"desktop-fontSize:30"},{"offset":0,"length":34,"style":"lineHeight:130%"},{"offset":0,"length":34,"style":"fontFamily:Georgia"},{"offset":0,"length":34,"style":"borderBottomStyle:none"},{"offset":0,"length":34,"style":"textShadowEnable:false"},{"offset":18,"length":15,"style":"color:#f7f6f2"},{"offset":0,"length":34,"style":"hlnk:"},{"offset":0,"length":34,"style":"fontWeight:normal"},{"offset":0,"length":34,"style":"textShadowBlur:8px"},{"offset":0,"length":34,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":34,"style":"textShadowColor:#19191929"},{"offset":0,"length":34,"style":"textShadow:none"},{"offset":0,"length":34,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":34,"style":"hlnkt:wp"},{"offset":0,"length":34,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":34,"style":"tablet-fontSize:20"},{"offset":0,"length":34,"style":"fontStyle:normal"},{"offset":0,"length":34,"style":"textOutlineEnable:false"},{"offset":0,"length":34,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":34,"style":"opacity:1"},{"offset":0,"length":18,"style":"color:#f3de8a"},{"offset":33,"length":1,"style":"color:#f3de8a"},{"offset":0,"length":34,"style":"hlnke:true"},{"offset":0,"length":34,"style":"defaultTextShadow:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"3rqr4","text":"Pulling-to-refresh for new content","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":34,"style":"textTransform:none"},{"offset":0,"length":34,"style":"textShadowOpacity:none"},{"offset":0,"length":34,"style":"overridden:true"},{"offset":0,"length":34,"style":"textDecoration:none"},{"offset":0,"length":34,"style":"desktop-fontSize:30"},{"offset":0,"length":34,"style":"lineHeight:130%"},{"offset":0,"length":34,"style":"fontFamily:Georgia"},{"offset":0,"length":34,"style":"borderBottomStyle:none"},{"offset":0,"length":34,"style":"textShadowEnable:false"},{"offset":19,"length":14,"style":"color:#f7f6f2"},{"offset":0,"length":34,"style":"hlnk:"},{"offset":0,"length":34,"style":"fontWeight:normal"},{"offset":0,"length":34,"style":"textShadowBlur:8px"},{"offset":0,"length":34,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":34,"style":"textShadow:none"},{"offset":0,"length":34,"style":"textShadowColor:#19191929"},{"offset":0,"length":34,"style":"hlnkt:wp"},{"offset":0,"length":34,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":34,"style":"tablet-fontSize:20"},{"offset":0,"length":34,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":34,"style":"textOutlineEnable:false"},{"offset":0,"length":34,"style":"fontStyle:normal"},{"offset":0,"length":34,"style":"opacity:1"},{"offset":0,"length":34,"style":"defaultTextStrokeWidth:1px"},{"offset":33,"length":1,"style":"color:#f3de8a"},{"offset":0,"length":34,"style":"hlnke:true"},{"offset":0,"length":34,"style":"defaultTextShadow:none"},{"offset":0,"length":34,"style":"backgroundColor:unset"},{"offset":0,"length":34,"style":"mobile-fontSize:18"},{"offset":0,"length":34,"style":"textShadowX:0px"},{"offset":0,"length":34,"style":"fontStretch:normal"},{"offset":0,"length":34,"style":"fontType:regular"},{"offset":0,"length":19,"style":"color:#fdf7f7"},{"offset":0,"length":34,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":34,"style":"textShadowY:4px"},{"offset":0,"length":34,"style":"letterSpacing:0%"},{"offset":0,"length":34,"style":"textHighlightEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -85277,8 +85277,8 @@ vb:[-1,-1,2,2]
 si61624:{
 name:'Text_1155',
 type:1250,
-from:28711,
-to:28800,
+from:33281,
+to:33370,
 rp:0,
 rpa:0,
 mdi:'si61624c',
@@ -85308,7 +85308,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"au8kn","text":"Clicking on a notification","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":26,"style":"opacity:1"},{"offset":12,"length":14,"style":"color:#f3de8a"},{"offset":0,"length":26,"style":"hlnke:true"},{"offset":0,"length":26,"style":"defaultTextShadow:none"},{"offset":0,"length":26,"style":"backgroundColor:unset"},{"offset":0,"length":26,"style":"mobile-fontSize:18"},{"offset":0,"length":26,"style":"textShadowX:0px"},{"offset":0,"length":12,"style":"color:#f5f4ef"},{"offset":0,"length":26,"style":"fontStretch:normal"},{"offset":0,"length":26,"style":"fontType:regular"},{"offset":0,"length":26,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":26,"style":"textShadowY:4px"},{"offset":0,"length":26,"style":"letterSpacing:0%"},{"offset":0,"length":26,"style":"textHighlightEnable:false"},{"offset":0,"length":26,"style":"textTransform:none"},{"offset":0,"length":26,"style":"textShadowOpacity:none"},{"offset":0,"length":26,"style":"overridden:true"},{"offset":0,"length":26,"style":"textDecoration:none"},{"offset":0,"length":26,"style":"desktop-fontSize:30"},{"offset":0,"length":26,"style":"lineHeight:130%"},{"offset":0,"length":26,"style":"fontFamily:Georgia"},{"offset":0,"length":26,"style":"borderBottomStyle:none"},{"offset":0,"length":26,"style":"textShadowEnable:false"},{"offset":0,"length":26,"style":"hlnk:"},{"offset":0,"length":26,"style":"fontWeight:normal"},{"offset":0,"length":26,"style":"textShadowBlur:8px"},{"offset":0,"length":26,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":26,"style":"textShadowColor:#19191929"},{"offset":0,"length":26,"style":"textShadow:none"},{"offset":0,"length":26,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":26,"style":"hlnkt:wp"},{"offset":0,"length":26,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":26,"style":"tablet-fontSize:20"},{"offset":0,"length":26,"style":"fontStyle:normal"},{"offset":0,"length":26,"style":"textOutlineEnable:false"},{"offset":0,"length":26,"style":"defaultTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"au8kn","text":"Clicking on a notification","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":26,"style":"textShadowY:4px"},{"offset":0,"length":26,"style":"letterSpacing:0%"},{"offset":0,"length":26,"style":"textHighlightEnable:false"},{"offset":0,"length":26,"style":"textTransform:none"},{"offset":0,"length":26,"style":"textShadowOpacity:none"},{"offset":0,"length":26,"style":"overridden:true"},{"offset":0,"length":26,"style":"textDecoration:none"},{"offset":0,"length":26,"style":"desktop-fontSize:30"},{"offset":0,"length":26,"style":"lineHeight:130%"},{"offset":0,"length":26,"style":"fontFamily:Georgia"},{"offset":0,"length":26,"style":"borderBottomStyle:none"},{"offset":0,"length":26,"style":"textShadowEnable:false"},{"offset":0,"length":26,"style":"hlnk:"},{"offset":0,"length":26,"style":"fontWeight:normal"},{"offset":0,"length":26,"style":"textShadowBlur:8px"},{"offset":0,"length":26,"style":"color:#f8f5f5"},{"offset":0,"length":26,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":26,"style":"textShadowColor:#19191929"},{"offset":0,"length":26,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":26,"style":"mobile-fontSize:18"},{"offset":0,"length":26,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":26,"style":"hlnkt:wp"},{"offset":0,"length":26,"style":"fontStyle:normal"},{"offset":0,"length":26,"style":"tablet-fontSize:20"},{"offset":0,"length":26,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":26,"style":"textOutlineEnable:false"},{"offset":0,"length":26,"style":"opacity:1"},{"offset":0,"length":26,"style":"hlnke:true"},{"offset":0,"length":26,"style":"defaultTextShadow:none"},{"offset":0,"length":26,"style":"backgroundColor:unset"},{"offset":0,"length":26,"style":"textShadow:none"},{"offset":0,"length":26,"style":"textShadowX:0px"},{"offset":0,"length":26,"style":"fontStretch:normal"},{"offset":0,"length":26,"style":"fontType:regular"},{"offset":0,"length":26,"style":"defaultBackgroundColor:#E8D01B"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -85429,8 +85429,8 @@ vb:[-1,-1,2,2]
 si61631:{
 name:'Text_1156',
 type:1250,
-from:28711,
-to:28800,
+from:33281,
+to:33370,
 rp:0,
 rpa:0,
 mdi:'si61631c',
@@ -85460,7 +85460,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"bp7cc","text":"Watching a video via autoplay","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":29,"style":"textShadow:none"},{"offset":0,"length":29,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":29,"style":"hlnkt:wp"},{"offset":0,"length":29,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":29,"style":"tablet-fontSize:20"},{"offset":0,"length":29,"style":"fontStyle:normal"},{"offset":0,"length":29,"style":"textOutlineEnable:false"},{"offset":0,"length":29,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":29,"style":"opacity:1"},{"offset":17,"length":12,"style":"color:#f3de8a"},{"offset":0,"length":29,"style":"hlnke:true"},{"offset":0,"length":29,"style":"defaultTextShadow:none"},{"offset":0,"length":29,"style":"backgroundColor:unset"},{"offset":0,"length":29,"style":"mobile-fontSize:18"},{"offset":0,"length":29,"style":"textShadowX:0px"},{"offset":0,"length":29,"style":"fontStretch:normal"},{"offset":0,"length":29,"style":"fontType:regular"},{"offset":0,"length":29,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":29,"style":"textShadowY:4px"},{"offset":0,"length":29,"style":"letterSpacing:0%"},{"offset":0,"length":29,"style":"textHighlightEnable:false"},{"offset":0,"length":29,"style":"textTransform:none"},{"offset":0,"length":29,"style":"textShadowOpacity:none"},{"offset":0,"length":29,"style":"overridden:true"},{"offset":0,"length":29,"style":"textDecoration:none"},{"offset":0,"length":29,"style":"desktop-fontSize:30"},{"offset":0,"length":29,"style":"lineHeight:130%"},{"offset":0,"length":17,"style":"color:#f5f5f2"},{"offset":0,"length":29,"style":"fontFamily:Georgia"},{"offset":0,"length":29,"style":"borderBottomStyle:none"},{"offset":0,"length":29,"style":"textShadowEnable:false"},{"offset":0,"length":29,"style":"hlnk:"},{"offset":0,"length":29,"style":"fontWeight:normal"},{"offset":0,"length":29,"style":"textShadowBlur:8px"},{"offset":0,"length":29,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":29,"style":"textShadowColor:#19191929"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"bp7cc","text":"Watching a video via autoplay","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":29,"style":"textShadowX:0px"},{"offset":0,"length":29,"style":"fontStretch:normal"},{"offset":0,"length":29,"style":"fontType:regular"},{"offset":0,"length":29,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":29,"style":"textShadowY:4px"},{"offset":0,"length":29,"style":"letterSpacing:0%"},{"offset":0,"length":29,"style":"textHighlightEnable:false"},{"offset":0,"length":29,"style":"textTransform:none"},{"offset":0,"length":29,"style":"textShadowOpacity:none"},{"offset":0,"length":29,"style":"overridden:true"},{"offset":0,"length":29,"style":"textDecoration:none"},{"offset":0,"length":29,"style":"desktop-fontSize:30"},{"offset":0,"length":29,"style":"lineHeight:130%"},{"offset":0,"length":29,"style":"fontFamily:Georgia"},{"offset":0,"length":29,"style":"borderBottomStyle:none"},{"offset":0,"length":29,"style":"textShadowEnable:false"},{"offset":0,"length":29,"style":"hlnk:"},{"offset":0,"length":29,"style":"fontWeight:normal"},{"offset":0,"length":29,"style":"textShadowBlur:8px"},{"offset":0,"length":29,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":29,"style":"textShadowColor:#19191929"},{"offset":0,"length":29,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":29,"style":"textShadow:none"},{"offset":0,"length":29,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":29,"style":"hlnkt:wp"},{"offset":0,"length":29,"style":"fontStyle:normal"},{"offset":0,"length":29,"style":"tablet-fontSize:20"},{"offset":0,"length":29,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":29,"style":"textOutlineEnable:false"},{"offset":0,"length":29,"style":"opacity:1"},{"offset":0,"length":29,"style":"hlnke:true"},{"offset":0,"length":29,"style":"defaultTextShadow:none"},{"offset":0,"length":29,"style":"backgroundColor:unset"},{"offset":0,"length":29,"style":"color:#faf5f5"},{"offset":0,"length":29,"style":"mobile-fontSize:18"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -86046,8 +86046,8 @@ vb:[-2,-2,-1,-1]
 si61659:{
 name:'Text_1157',
 type:1250,
-from:28711,
-to:28800,
+from:33281,
+to:33370,
 rp:0,
 rpa:0,
 mdi:'si61659c',
@@ -86077,7 +86077,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"3rqr4","text":"Opening a recommended article","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":29,"style":"fontWeight:normal"},{"offset":0,"length":29,"style":"textShadowBlur:8px"},{"offset":0,"length":29,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":29,"style":"textShadowColor:#19191929"},{"offset":0,"length":29,"style":"textShadow:none"},{"offset":0,"length":29,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":29,"style":"hlnkt:wp"},{"offset":0,"length":29,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":29,"style":"tablet-fontSize:20"},{"offset":0,"length":29,"style":"fontStyle:normal"},{"offset":0,"length":29,"style":"textOutlineEnable:false"},{"offset":0,"length":29,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":29,"style":"opacity:1"},{"offset":10,"length":19,"style":"color:#f3de8a"},{"offset":0,"length":29,"style":"hlnke:true"},{"offset":0,"length":29,"style":"defaultTextShadow:none"},{"offset":0,"length":29,"style":"backgroundColor:unset"},{"offset":0,"length":29,"style":"mobile-fontSize:18"},{"offset":0,"length":29,"style":"textShadowX:0px"},{"offset":0,"length":29,"style":"fontStretch:normal"},{"offset":0,"length":29,"style":"fontType:regular"},{"offset":0,"length":29,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":29,"style":"textShadowY:4px"},{"offset":0,"length":10,"style":"color:#f2f2f2"},{"offset":0,"length":29,"style":"letterSpacing:0%"},{"offset":0,"length":29,"style":"textHighlightEnable:false"},{"offset":0,"length":29,"style":"textTransform:none"},{"offset":0,"length":29,"style":"textShadowOpacity:none"},{"offset":0,"length":29,"style":"overridden:true"},{"offset":0,"length":29,"style":"textDecoration:none"},{"offset":0,"length":29,"style":"desktop-fontSize:30"},{"offset":0,"length":29,"style":"lineHeight:130%"},{"offset":0,"length":29,"style":"fontFamily:Georgia"},{"offset":0,"length":29,"style":"borderBottomStyle:none"},{"offset":0,"length":29,"style":"textShadowEnable:false"},{"offset":0,"length":29,"style":"hlnk:"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"3rqr4","text":"Opening a recommended article","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":29,"style":"backgroundColor:unset"},{"offset":0,"length":29,"style":"textShadow:none"},{"offset":0,"length":29,"style":"textShadowX:0px"},{"offset":0,"length":29,"style":"fontStretch:normal"},{"offset":0,"length":29,"style":"fontType:regular"},{"offset":0,"length":29,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":29,"style":"textShadowY:4px"},{"offset":0,"length":29,"style":"color:#fcf9f9"},{"offset":0,"length":29,"style":"letterSpacing:0%"},{"offset":0,"length":29,"style":"textHighlightEnable:false"},{"offset":0,"length":29,"style":"textTransform:none"},{"offset":0,"length":29,"style":"textShadowOpacity:none"},{"offset":0,"length":29,"style":"overridden:true"},{"offset":0,"length":29,"style":"textDecoration:none"},{"offset":0,"length":29,"style":"desktop-fontSize:30"},{"offset":0,"length":29,"style":"lineHeight:130%"},{"offset":0,"length":29,"style":"fontFamily:Georgia"},{"offset":0,"length":29,"style":"borderBottomStyle:none"},{"offset":0,"length":29,"style":"textShadowEnable:false"},{"offset":0,"length":29,"style":"hlnk:"},{"offset":0,"length":29,"style":"fontWeight:normal"},{"offset":0,"length":29,"style":"textShadowBlur:8px"},{"offset":0,"length":29,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":29,"style":"textShadowColor:#19191929"},{"offset":0,"length":29,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":29,"style":"mobile-fontSize:18"},{"offset":0,"length":29,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":29,"style":"hlnkt:wp"},{"offset":0,"length":29,"style":"fontStyle:normal"},{"offset":0,"length":29,"style":"tablet-fontSize:20"},{"offset":0,"length":29,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":29,"style":"textOutlineEnable:false"},{"offset":0,"length":29,"style":"opacity:1"},{"offset":0,"length":29,"style":"hlnke:true"},{"offset":0,"length":29,"style":"defaultTextShadow:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -86198,8 +86198,8 @@ vb:[-1,-1,2,2]
 si61666:{
 name:'Text_1158',
 type:1250,
-from:28711,
-to:28800,
+from:33281,
+to:33370,
 rp:0,
 rpa:0,
 mdi:'si61666c',
@@ -86229,7 +86229,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"3rqr4","text":"Scrolling through content","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":25,"style":"borderBottomStyle:none"},{"offset":0,"length":25,"style":"textShadowEnable:false"},{"offset":0,"length":25,"style":"hlnk:"},{"offset":0,"length":25,"style":"fontWeight:normal"},{"offset":0,"length":25,"style":"textShadowBlur:8px"},{"offset":10,"length":15,"style":"color:#f7f6f4"},{"offset":0,"length":25,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":25,"style":"textShadowColor:#19191929"},{"offset":0,"length":25,"style":"textShadow:none"},{"offset":0,"length":25,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":25,"style":"hlnkt:wp"},{"offset":0,"length":25,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":25,"style":"tablet-fontSize:20"},{"offset":0,"length":25,"style":"fontStyle:normal"},{"offset":0,"length":25,"style":"textOutlineEnable:false"},{"offset":0,"length":25,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":25,"style":"opacity:1"},{"offset":0,"length":10,"style":"color:#f3de8a"},{"offset":0,"length":25,"style":"hlnke:true"},{"offset":0,"length":25,"style":"defaultTextShadow:none"},{"offset":0,"length":25,"style":"backgroundColor:unset"},{"offset":0,"length":25,"style":"mobile-fontSize:18"},{"offset":0,"length":25,"style":"textShadowX:0px"},{"offset":0,"length":25,"style":"fontStretch:normal"},{"offset":0,"length":25,"style":"fontType:regular"},{"offset":0,"length":25,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":25,"style":"textShadowY:4px"},{"offset":0,"length":25,"style":"letterSpacing:0%"},{"offset":0,"length":25,"style":"textHighlightEnable:false"},{"offset":0,"length":25,"style":"textTransform:none"},{"offset":0,"length":25,"style":"textShadowOpacity:none"},{"offset":0,"length":25,"style":"overridden:true"},{"offset":0,"length":25,"style":"textDecoration:none"},{"offset":0,"length":25,"style":"desktop-fontSize:30"},{"offset":0,"length":25,"style":"lineHeight:130%"},{"offset":0,"length":25,"style":"fontFamily:Georgia"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"3rqr4","text":"Scrolling through content","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":25,"style":"opacity:1"},{"offset":0,"length":25,"style":"hlnke:true"},{"offset":0,"length":25,"style":"defaultTextShadow:none"},{"offset":0,"length":25,"style":"backgroundColor:unset"},{"offset":0,"length":25,"style":"textShadow:none"},{"offset":0,"length":25,"style":"textShadowX:0px"},{"offset":0,"length":25,"style":"fontStretch:normal"},{"offset":0,"length":25,"style":"fontType:regular"},{"offset":0,"length":25,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":25,"style":"textShadowY:4px"},{"offset":0,"length":25,"style":"letterSpacing:0%"},{"offset":0,"length":25,"style":"textHighlightEnable:false"},{"offset":0,"length":25,"style":"textTransform:none"},{"offset":0,"length":25,"style":"textShadowOpacity:none"},{"offset":0,"length":25,"style":"overridden:true"},{"offset":0,"length":25,"style":"textDecoration:none"},{"offset":0,"length":25,"style":"desktop-fontSize:30"},{"offset":0,"length":25,"style":"lineHeight:130%"},{"offset":0,"length":25,"style":"fontFamily:Georgia"},{"offset":0,"length":25,"style":"borderBottomStyle:none"},{"offset":0,"length":25,"style":"textShadowEnable:false"},{"offset":0,"length":25,"style":"hlnk:"},{"offset":0,"length":25,"style":"fontWeight:normal"},{"offset":0,"length":25,"style":"textShadowBlur:8px"},{"offset":0,"length":25,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":25,"style":"textShadowColor:#19191929"},{"offset":0,"length":25,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":25,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":25,"style":"mobile-fontSize:18"},{"offset":0,"length":25,"style":"fontStyle:normal"},{"offset":0,"length":25,"style":"hlnkt:wp"},{"offset":0,"length":25,"style":"color:#fcfafa"},{"offset":0,"length":25,"style":"tablet-fontSize:20"},{"offset":0,"length":25,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":25,"style":"textOutlineEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -89028,8 +89028,8 @@ vb:[-4,-4,2,2]
 Slide61807:{
 lb:'Match the column 3',
 id:61807,
-from:28711,
-to:28800,
+from:33281,
+to:33370,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -89083,9 +89083,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide61807q6',
-qnq:6,
-pa:28754,
+qs:'Slide61807q7',
+qnq:7,
+pa:33326,
 iph:{
 61788:{
 ts:'',
@@ -89122,7 +89122,7 @@ uid:61807,
 dn:'Slide61807',
 visible:'1'
 },
-Slide61807q6:{
+Slide61807q7:{
 noa:3,
 qt:'',
 it:true,
@@ -89133,7 +89133,7 @@ sat:true,
 qst:0,
 ish:false,
 ips:false,
-qnq:6,
+qnq:7,
 sn:'Slide61807',
 oid:'Quiz_2025125135445',
 iid:'61500',
@@ -101956,8 +101956,8 @@ visible:'1'
 si59261:{
 name:'Paragraph_37',
 type:1268,
-from:29431,
-to:29520,
+from:33461,
+to:33550,
 rp:0,
 rpa:0,
 mdi:'si59261c',
@@ -102124,8 +102124,8 @@ vb:[-1,-1,1,1]
 si59269:{
 name:'Paragraph_Group_31',
 type:1268,
-from:29431,
-to:29520,
+from:33461,
+to:33550,
 rp:0,
 rpa:0,
 mdi:'si59269c',
@@ -102293,8 +102293,8 @@ vb:[-1,-1,1,1]
 si59277:{
 name:'Text_1117',
 type:1250,
-from:29431,
-to:29520,
+from:33461,
+to:33550,
 rp:0,
 rpa:0,
 mdi:'si59277c',
@@ -102324,7 +102324,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"f1073","text":"Take a moment to pause and reflect.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":35,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":35,"style":"textShadowColor:#19191929"},{"offset":0,"length":35,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":35,"style":"mobile-fontSize:18"},{"offset":0,"length":35,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":35,"style":"hlnkt:wp"},{"offset":0,"length":35,"style":"fontStyle:normal"},{"offset":0,"length":35,"style":"tablet-fontSize:20"},{"offset":0,"length":35,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":35,"style":"textOutlineEnable:false"},{"offset":0,"length":35,"style":"opacity:1"},{"offset":0,"length":35,"style":"hlnke:true"},{"offset":0,"length":35,"style":"defaultTextShadow:none"},{"offset":0,"length":35,"style":"backgroundColor:unset"},{"offset":0,"length":35,"style":"textShadow:none"},{"offset":0,"length":35,"style":"textShadowX:0px"},{"offset":0,"length":35,"style":"fontStretch:normal"},{"offset":0,"length":35,"style":"fontType:regular"},{"offset":0,"length":35,"style":"color:#ffffff"},{"offset":0,"length":35,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":35,"style":"textShadowY:4px"},{"offset":0,"length":35,"style":"letterSpacing:0%"},{"offset":0,"length":35,"style":"textHighlightEnable:false"},{"offset":0,"length":35,"style":"textTransform:none"},{"offset":0,"length":35,"style":"desktop-fontSize:60"},{"offset":0,"length":35,"style":"textShadowOpacity:none"},{"offset":0,"length":35,"style":"overridden:true"},{"offset":0,"length":35,"style":"textDecoration:none"},{"offset":0,"length":35,"style":"lineHeight:130%"},{"offset":0,"length":35,"style":"fontFamily:Georgia"},{"offset":0,"length":35,"style":"borderBottomStyle:none"},{"offset":0,"length":35,"style":"textShadowEnable:false"},{"offset":0,"length":35,"style":"hlnk:"},{"offset":0,"length":35,"style":"fontWeight:normal"},{"offset":0,"length":35,"style":"textShadowBlur:8px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"akqhr","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"3cjr6","text":"How does learning about the 5 HARMS of an Attention Capture Tycoon change how you think about your daily choices and behaviors? ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":128,"style":"textShadowEnable:false"},{"offset":0,"length":128,"style":"hlnk:"},{"offset":0,"length":128,"style":"fontWeight:normal"},{"offset":0,"length":128,"style":"textShadowBlur:8px"},{"offset":0,"length":128,"style":"desktop-fontSize:36"},{"offset":0,"length":128,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":128,"style":"textShadow:none"},{"offset":0,"length":128,"style":"textShadowColor:#19191929"},{"offset":0,"length":128,"style":"hlnkt:wp"},{"offset":0,"length":128,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":128,"style":"tablet-fontSize:20"},{"offset":0,"length":128,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":128,"style":"textOutlineEnable:false"},{"offset":0,"length":128,"style":"fontStyle:normal"},{"offset":0,"length":128,"style":"opacity:1"},{"offset":0,"length":128,"style":"defaultTextStrokeWidth:1px"},{"offset":99,"length":27,"style":"color:#f3de8a"},{"offset":0,"length":128,"style":"hlnke:true"},{"offset":0,"length":128,"style":"defaultTextShadow:none"},{"offset":0,"length":128,"style":"backgroundColor:unset"},{"offset":0,"length":128,"style":"mobile-fontSize:18"},{"offset":0,"length":128,"style":"textShadowX:0px"},{"offset":0,"length":128,"style":"fontStretch:normal"},{"offset":0,"length":128,"style":"fontType:regular"},{"offset":0,"length":28,"style":"color:#ffffff"},{"offset":29,"length":1,"style":"color:#ffffff"},{"offset":35,"length":7,"style":"color:#ffffff"},{"offset":66,"length":33,"style":"color:#ffffff"},{"offset":126,"length":2,"style":"color:#ffffff"},{"offset":0,"length":128,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":128,"style":"textShadowY:4px"},{"offset":0,"length":128,"style":"letterSpacing:0%"},{"offset":28,"length":1,"style":"color:#66c4d9"},{"offset":30,"length":5,"style":"color:#66c4d9"},{"offset":42,"length":24,"style":"color:#66c4d9"},{"offset":0,"length":128,"style":"textHighlightEnable:false"},{"offset":0,"length":128,"style":"textTransform:none"},{"offset":0,"length":128,"style":"textShadowOpacity:none"},{"offset":0,"length":128,"style":"overridden:true"},{"offset":0,"length":128,"style":"textDecoration:none"},{"offset":0,"length":128,"style":"lineHeight:130%"},{"offset":0,"length":128,"style":"fontFamily:Georgia"},{"offset":0,"length":128,"style":"borderBottomStyle:none"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"f1073","text":"Take a moment to pause and reflect.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":35,"style":"color:#ffffff"},{"offset":0,"length":35,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":35,"style":"textShadowY:4px"},{"offset":0,"length":35,"style":"letterSpacing:0%"},{"offset":0,"length":35,"style":"textHighlightEnable:false"},{"offset":0,"length":35,"style":"textTransform:none"},{"offset":0,"length":35,"style":"desktop-fontSize:60"},{"offset":0,"length":35,"style":"textShadowOpacity:none"},{"offset":0,"length":35,"style":"overridden:true"},{"offset":0,"length":35,"style":"textDecoration:none"},{"offset":0,"length":35,"style":"lineHeight:130%"},{"offset":0,"length":35,"style":"fontFamily:Georgia"},{"offset":0,"length":35,"style":"borderBottomStyle:none"},{"offset":0,"length":35,"style":"textShadowEnable:false"},{"offset":0,"length":35,"style":"hlnk:"},{"offset":0,"length":35,"style":"fontWeight:normal"},{"offset":0,"length":35,"style":"textShadowBlur:8px"},{"offset":0,"length":35,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":35,"style":"textShadowColor:#19191929"},{"offset":0,"length":35,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":35,"style":"mobile-fontSize:18"},{"offset":0,"length":35,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":35,"style":"hlnkt:wp"},{"offset":0,"length":35,"style":"fontStyle:normal"},{"offset":0,"length":35,"style":"tablet-fontSize:20"},{"offset":0,"length":35,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":35,"style":"textOutlineEnable:false"},{"offset":0,"length":35,"style":"opacity:1"},{"offset":0,"length":35,"style":"hlnke:true"},{"offset":0,"length":35,"style":"defaultTextShadow:none"},{"offset":0,"length":35,"style":"backgroundColor:unset"},{"offset":0,"length":35,"style":"textShadow:none"},{"offset":0,"length":35,"style":"textShadowX:0px"},{"offset":0,"length":35,"style":"fontStretch:normal"},{"offset":0,"length":35,"style":"fontType:regular"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"akqhr","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"3cjr6","text":"How does learning about the 5 HARMS of an Attention Capture Tycoon change how you think about your daily choices and behaviors? ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":128,"style":"mobile-fontSize:18"},{"offset":0,"length":128,"style":"textShadowX:0px"},{"offset":0,"length":128,"style":"fontStretch:normal"},{"offset":0,"length":128,"style":"fontType:regular"},{"offset":0,"length":28,"style":"color:#ffffff"},{"offset":29,"length":1,"style":"color:#ffffff"},{"offset":35,"length":7,"style":"color:#ffffff"},{"offset":66,"length":33,"style":"color:#ffffff"},{"offset":126,"length":2,"style":"color:#ffffff"},{"offset":0,"length":128,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":128,"style":"textShadowY:4px"},{"offset":0,"length":128,"style":"letterSpacing:0%"},{"offset":28,"length":1,"style":"color:#66c4d9"},{"offset":30,"length":5,"style":"color:#66c4d9"},{"offset":42,"length":24,"style":"color:#66c4d9"},{"offset":0,"length":128,"style":"textHighlightEnable:false"},{"offset":0,"length":128,"style":"textTransform:none"},{"offset":0,"length":128,"style":"textShadowOpacity:none"},{"offset":0,"length":128,"style":"overridden:true"},{"offset":0,"length":128,"style":"textDecoration:none"},{"offset":0,"length":128,"style":"lineHeight:130%"},{"offset":0,"length":128,"style":"fontFamily:Georgia"},{"offset":0,"length":128,"style":"borderBottomStyle:none"},{"offset":0,"length":128,"style":"textShadowEnable:false"},{"offset":0,"length":128,"style":"hlnk:"},{"offset":0,"length":128,"style":"fontWeight:normal"},{"offset":0,"length":128,"style":"textShadowBlur:8px"},{"offset":0,"length":128,"style":"desktop-fontSize:36"},{"offset":0,"length":128,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":128,"style":"textShadow:none"},{"offset":0,"length":128,"style":"textShadowColor:#19191929"},{"offset":0,"length":128,"style":"hlnkt:wp"},{"offset":0,"length":128,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":128,"style":"tablet-fontSize:20"},{"offset":0,"length":128,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":128,"style":"textOutlineEnable:false"},{"offset":0,"length":128,"style":"fontStyle:normal"},{"offset":0,"length":128,"style":"opacity:1"},{"offset":0,"length":128,"style":"defaultTextStrokeWidth:1px"},{"offset":99,"length":27,"style":"color:#f3de8a"},{"offset":0,"length":128,"style":"hlnke:true"},{"offset":0,"length":128,"style":"defaultTextShadow:none"},{"offset":0,"length":128,"style":"backgroundColor:unset"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"center","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -104371,8 +104371,8 @@ vb:[-2,-2,-1,-1]
 Slide59239:{
 lb:'Blank 1',
 id:59239,
-from:29431,
-to:29520,
+from:33461,
+to:33550,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -105078,7 +105078,7 @@ prjBgColor:'#ffffff',
 pkt:0,
 htmlBgColor:'#f5f4f1',
 shc:false,
-pN:'Inoculation v15- 2-12-26.cpt'
+pN:'Inoculation v16- 2-15-26.cpt'
 },
 projectThemeData:{
 customisations:'{"user_renames":{}}',
@@ -105112,8 +105112,8 @@ vestr:0,
 vim:0,
 slides:'Slide24910,Slide45138,Slide60010,Slide68623,Slide68373,Slide68510,Slide63314,Slide68897,Slide60547,Slide63650,Slide63503,Slide53988,Slide64823,Slide60616,Slide63848,Slide46813,Slide56811,Slide64103,Slide46888,Slide54558,Slide64223,Slide47061,Slide57837,Slide64343,Slide47234,Slide55106,Slide64463,Slide47505,Slide58851,Slide64703,Slide47580,Slide63434,Slide61807,Slide69208,Slide48014,Slide59239',
 questionSlides:'Slide53988,Slide56811,Slide54558,Slide57837,Slide55106,Slide58851,Slide61807,Slide69208',
-slideVideos:['si60497','si63453','si60566','si46763','si46838','si47011','si47184','si47455','si47530'],
-questions:'Slide53988q0,Slide54558q2,Slide55106q4,Slide56811q1,Slide57837q3,Slide58851q5,Slide61807q6,Slide69208q7',
+slideVideos:['si60497','si63453','si60566','si46763','si46838','si47011','si47184','si47455','si47530','si71079'],
+questions:'Slide53988q0,Slide54558q2,Slide55106q4,Slide56811q1,Slide57837q3,Slide58851q5,Slide61807q7,Slide69208q7',
 autoplay:false,
 preloader:true,
 preloaderFileName:'dr/loading.gif',
@@ -105197,7 +105197,7 @@ text:[]
 }
 ,{
 link:63503,
-text:['""']
+text:['""','""']
 }
 ,{
 link:53988,
@@ -105524,6 +105524,24 @@ ipiv:{
 }
 
 }
+,{
+ip:'dr/070113.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
+,{
+ip:'dr/070119.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
 ];
 cp.model.imageresources=[{
 slideID:0,
@@ -105535,7 +105553,7 @@ resources:['dr/018914.svg','dr/020370.svg','dr/068904.png']
 ,{
 slideID:1,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/068907.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/070119.png']
 }
 
 }
@@ -105790,7 +105808,8 @@ cp.model.slideVideos=[
 'vr/Vi68922.mp4',
 'vr/Vi68928.mp4',
 'vr/Vi69521.mp4',
-'vr/Vi69527.mp4'
+'vr/Vi69527.mp4',
+'vr/Vi71068.mp4'
 ];
 cp.model.tocVideos=[
 ];

@@ -10376,7 +10376,7 @@
 "branched":false,
 "submitAll":false,
 "review":true,
-"questions":["Slide53988q0","Slide54558q2","Slide55106q4","Slide56811q1","Slide57837q3","Slide58851q5","Slide61807q6","Slide69208q7"],
+"questions":["Slide53988q0","Slide54558q2","Slide55106q4","Slide56811q1","Slide57837q3","Slide58851q5","Slide61807q7","Slide69208q7"],
 "minScore":0,
 "maxScore":8,
 "passScore":7
