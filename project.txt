@@ -7276,7 +7276,7 @@
 {
 "id":"si47455",
 "class":"TODO::Senthil",
-"instance":"Tactic_5_(3)_mp4_1",
+"instance":"Tactic_5_(4)_mp4_1",
 "video":{
 "title":"Video title- NI",
 "uri":"Video title- NI",
@@ -10420,6 +10420,11 @@
 ,
 "exitNormalIfCompleted":false
 }
+,"eventVideos":[{
+"id":"si47455",
+"uri":"vr/Vi71108.mp4"
+}
+]
 ,"toc":[{
 "id":"Slide24910",
 "title":"Welcome"

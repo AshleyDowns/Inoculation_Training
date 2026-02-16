@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:33641,
-to:33730,
+from:34001,
+to:34090,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -4027,8 +4027,8 @@ vb:[-2,-2,-1,-1]
 Slide45138:{
 lb:'Welcome zoom in',
 id:45138,
-from:30241,
-to:30330,
+from:34091,
+to:34180,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -4073,13 +4073,13 @@ bc:'#f8f7f4',
 fa:1,
 fe:true,
 imgf:{
-ip:'dr/070119.png',
+ip:'dr/071105.png',
 tiletype:0,
 imageFocus:0,
 extraImageProps:'',
-id:70119,
-w:2404,
-h:1328,
+id:71105,
+w:2422,
+h:1354,
 tsp:50
 }
 ,
@@ -68022,8 +68022,8 @@ visible:'1'
 si47483:{
 name:'Slide_video_6',
 type:1268,
-from:22541,
-to:25489,
+from:34181,
+to:37129,
 rp:0,
 rpa:0,
 mdi:'si47483c',
@@ -68211,8 +68211,8 @@ vb:[-1,-1,1,1]
 si47477:{
 name:'Video_Group_6',
 type:1268,
-from:22541,
-to:25489,
+from:34181,
+to:37129,
 rp:0,
 rpa:0,
 mdi:'si47477c',
@@ -68378,10 +68378,10 @@ vbwr:[-1,-1,1,1],
 vb:[-1,-1,1,1]
 },
 si47455:{
-name:'Tactic_5_(3)_mp4_1',
+name:'Tactic_5_(4)_mp4_1',
 type:365,
-from:22541,
-to:22870,
+from:34181,
+to:36154,
 rp:0,
 rpa:0,
 mdi:'si47455c',
@@ -68391,7 +68391,7 @@ enabled:true,
 defEn:true,
 vu:[],
 siaf:0,
-sid:11,
+sid:65.8,
 slideItemThemeCounter:0,
 presetData:[{
 presetId:'',
@@ -68509,10 +68509,10 @@ dn:'si47455',
 visible:1,
 effectiveVi:1,
 JSONEffectData:false,
-videoThumbnailSrc:'dr/069524.png',
-mp4:'vr/Vi69521.mp4',
+videoThumbnailSrc:'dr/071111.png',
+mp4:'vr/Vi71108.mp4',
 vsf:0,
-vst:11,
+vst:65.8,
 o:100,
 vbwr:[-278,-157,1644,925],
 vb:[-278,-157,1644,925]
@@ -70445,8 +70445,8 @@ vb:[-2,-2,-1,-1]
 Slide47505:{
 lb:'Tactic 5 video',
 id:47505,
-from:22541,
-to:25490,
+from:34181,
+to:37130,
 iols:0,
 i360qs:false,
 sdu:98.3,
@@ -105112,7 +105112,7 @@ vestr:0,
 vim:0,
 slides:'Slide24910,Slide45138,Slide60010,Slide68623,Slide68373,Slide68510,Slide63314,Slide68897,Slide60547,Slide63650,Slide63503,Slide53988,Slide64823,Slide60616,Slide63848,Slide46813,Slide56811,Slide64103,Slide46888,Slide54558,Slide64223,Slide47061,Slide57837,Slide64343,Slide47234,Slide55106,Slide64463,Slide47505,Slide58851,Slide64703,Slide47580,Slide63434,Slide61807,Slide69208,Slide48014,Slide59239',
 questionSlides:'Slide53988,Slide56811,Slide54558,Slide57837,Slide55106,Slide58851,Slide61807,Slide69208',
-slideVideos:['si60497','si63453','si60566','si46763','si46838','si47011','si47184','si47455','si47530','si71079'],
+slideVideos:['si60497','si63453','si60566','si46763','si46838','si47011','si47184','si47455','si47530','si71079','si47455'],
 questions:'Slide53988q0,Slide54558q2,Slide55106q4,Slide56811q1,Slide57837q3,Slide58851q5,Slide61807q7,Slide69208q7',
 autoplay:false,
 preloader:true,
@@ -105265,7 +105265,7 @@ text:[]
 }
 ,{
 link:47505,
-text:['""']
+text:['""','""']
 }
 ,{
 link:58851,
@@ -105542,6 +105542,33 @@ ipiv:{
 }
 
 }
+,{
+ip:'dr/071102.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
+,{
+ip:'dr/071105.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
+,{
+ip:'dr/071111.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
 ];
 cp.model.imageresources=[{
 slideID:0,
@@ -105553,7 +105580,7 @@ resources:['dr/018914.svg','dr/020370.svg','dr/068904.png']
 ,{
 slideID:1,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/070119.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/071105.png']
 }
 
 }
@@ -105809,7 +105836,8 @@ cp.model.slideVideos=[
 'vr/Vi68928.mp4',
 'vr/Vi69521.mp4',
 'vr/Vi69527.mp4',
-'vr/Vi71068.mp4'
+'vr/Vi71068.mp4',
+'vr/Vi71108.mp4'
 ];
 cp.model.tocVideos=[
 ];
