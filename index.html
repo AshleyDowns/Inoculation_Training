@@ -6,7 +6,7 @@
       content="width=device-width, initial-scale=1, maximum-scale=3, user-scalable=1"
     />
     <title></title>
-    <link rel="preconnect" href="https://use.typekit.net" crossorigin />  <link rel="stylesheet" rel="preload" as="font" href="https://use.typekit.net/.css?v=1772258368" />
+    <link rel="preconnect" href="https://use.typekit.net" crossorigin />  <link rel="stylesheet" rel="preload" as="font" href="https://use.typekit.net/.css?v=1772286533" />
   </head>
   <body>
     <div id="app" style="width: 100%; height: 100%"></div>
@@ -14,69 +14,82 @@
     <script src='assets/js/project.js' charset="utf-8"></script><script src='dist/main.chunk.js' charset="utf-8"></script><script src='dist/runtime-main.bundle.js' charset="utf-8"></script><script src='dist/vendors-main.chunk.js' charset="utf-8"></script>
   
 <!-- ADD THIS BLOCK ↓↓↓ -->
-  <script>
-  (function () {
-    // --- CONFIG ---
-    var QUALTRICS_RETURN_BASE = 'https://cornell.ca1.qualtrics.com/jfe/form/SV_1BRAmsPvFJ1G5ro';
-    var PASS_THRESHOLD = 70;                 // adjust if needed
-    var REDIRECT_SLIDE_LABEL = 'Redirect';   // must match your Captivate slide name
-    var REDIRECT_SLIDE_INDEX = null;         // use a number only if you can't rely on labels
+<script>
+(function () {
+  var QUALTRICS_RETURN_BASE = 'https://cornell.ca1.qualtrics.com/jfe/form/SV_1BRAmsPvFJ1G5ro';
+  var PASS_THRESHOLD = 70;      // adjust if needed
 
-    function gv(name) {
-      try { return window.cpAPIInterface.getVariableValue(name); }
-      catch(e){ return null; }
+  // Trigger settings — we’ll match by label and also by index as a fallback
+  var REDIRECT_SLIDE_LABEL = 'Redirect';  // case-insensitive match to your slide name
+  var REDIRECT_SLIDE_INDEX = 38;          // set to the actual Redirect slide number
+
+  function gv(name) {
+    try { return window.cpAPIInterface.getVariableValue(name); }
+    catch (e) { return null; }
+  }
+
+  function buildAndGo() {
+    // Read PID/condition that Qualtrics added to the training URL
+    var usp = new URLSearchParams(location.search);
+    var PID = usp.get('PID') || usp.get('pid') || ''; // accept PID or pid
+    var condition = usp.get('condition') || '';
+
+    // Captivate 12 runtime quiz variables
+    var scorePercent = Number(gv('cpQuizInfoPercentage'));       // 0–100
+    var correct      = Number(gv('cpQuizInfoCorrectAnswers'));   // integer
+    var total        = Number(gv('cpQuizInfoTotalQuestions'));   // integer
+    var passed       = (!isNaN(scorePercent) && scorePercent >= PASS_THRESHOLD);
+
+    // Build query string
+    var qs = [];
+    if (PID)       qs.push('PID=' + encodeURIComponent(PID));
+    if (condition) qs.push('condition=' + encodeURIComponent(condition));
+    if (!isNaN(scorePercent)) qs.push('quizScore=' + scorePercent);
+    qs.push('passed=' + (passed ? 'true' : 'false'));
+    if (!isNaN(correct)) qs.push('correct=' + correct);
+    if (!isNaN(total))   qs.push('total=' + total);
+
+    var url = QUALTRICS_RETURN_BASE + '?' + qs.join('&');
+    console.log('[Return to Qualtrics]', url);
+    location.href = url;
+  }
+
+  function onSlideEnter() {
+    var label = gv('cpInfoCurrentSlideLabel');
+    var index = Number(gv('cpInfoCurrentSlideIndex')); // note: some themes are 0-based
+
+    // Normalize common off-by-one cases:
+    if (!isNaN(index) && index === (REDIRECT_SLIDE_INDEX - 1)) {
+      index = REDIRECT_SLIDE_INDEX;
     }
 
-    function buildAndGo() {
-      var usp = new URLSearchParams(location.search);
-      var PID = usp.get('PID') || usp.get('pid') || '';
-      var condition = usp.get('condition') || '';
+    var isByLabel =
+      (REDIRECT_SLIDE_LABEL &&
+       label &&
+       String(label).toLowerCase() === REDIRECT_SLIDE_LABEL.toLowerCase());
 
-      // Captivate 12 runtime quiz variables
-      var scorePercent = Number(gv('cpQuizInfoPercentage'));       // 0–100
-      var correct      = Number(gv('cpQuizInfoCorrectAnswers'));   // integer
-      var total        = Number(gv('cpQuizInfoTotalQuestions'));   // integer
-      var passed       = (!isNaN(scorePercent) && scorePercent >= PASS_THRESHOLD);
+    var isByIndex =
+      (REDIRECT_SLIDE_INDEX != null &&
+       !isNaN(index) &&
+       index === Number(REDIRECT_SLIDE_INDEX));
 
-      var qs = [];
-      if (PID)       qs.push('PID=' + encodeURIComponent(PID));
-      if (condition) qs.push('condition=' + encodeURIComponent(condition));
-      if (!isNaN(scorePercent)) qs.push('quizScore=' + scorePercent);
-      qs.push('passed=' + (passed ? 'true' : 'false'));
-      if (!isNaN(correct)) qs.push('correct=' + correct);
-      if (!isNaN(total))   qs.push('total=' + total);
-
-      var url = QUALTRICS_RETURN_BASE + '?' + qs.join('&');
-      console.log('[Return to Qualtrics]', url);
-      location.href = url;
+    if (isByLabel || isByIndex) {
+      // Let the slide finish entering, then navigate
+      setTimeout(buildAndGo, 150);
     }
+  }
 
-    function onSlideEnter() {
-      var label = gv('cpInfoCurrentSlideLabel');
-      var index = Number(gv('cpInfoCurrentSlideIndex'));
-
-      // Prefer label; fallback to index if you set REDIRECT_SLIDE_INDEX
-      var isRedirect =
-        (REDIRECT_SLIDE_LABEL && label &&
-          String(label).toLowerCase() === REDIRECT_SLIDE_LABEL.toLowerCase()) ||
-        (REDIRECT_SLIDE_INDEX != null && !isNaN(index) && index === Number(REDIRECT_SLIDE_INDEX));
-
-      if (isRedirect) {
-        setTimeout(buildAndGo, 150); // allow transition to settle, then navigate
-      }
+  function hookWhenReady() {
+    if (window.cpAPIInterface && window.cpAPIInterface.addEventListener) {
+      window.cpAPIInterface.addEventListener('CPAPI_SLIDEENTER', onSlideEnter);
+    } else {
+      setTimeout(hookWhenReady, 100);
     }
+  }
 
-    function hookWhenReady() {
-      if (window.cpAPIInterface && window.cpAPIInterface.addEventListener) {
-        window.cpAPIInterface.addEventListener('CPAPI_SLIDEENTER', onSlideEnter);
-      } else {
-        setTimeout(hookWhenReady, 100);
-      }
-    }
-
-    document.addEventListener('DOMContentLoaded', hookWhenReady);
-  })();
-  </script>
-  <!-- END ADDED BLOCK -->
+  document.addEventListener('DOMContentLoaded', hookWhenReady);
+})();
+</script>
+<!-- END ADDED BLOCK -->
   </body>
 </html>
