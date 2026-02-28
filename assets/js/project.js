@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:32651,
-to:32740,
+from:32921,
+to:33010,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -5086,10 +5086,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide60010:{
-lb:'Multiple choice A1 - 1',
+lb:'Get motivated',
 id:60010,
-from:271,
-to:360,
+from:33011,
+to:33100,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -6136,10 +6136,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide68623:{
-lb:'Multiple choice A1 - 9',
+lb:'Pause and think',
 id:68623,
-from:361,
-to:450,
+from:33101,
+to:33190,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -7186,10 +7186,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide68373:{
-lb:'Multiple choice A1 - 7',
+lb:'Consider this',
 id:68373,
-from:451,
-to:540,
+from:33191,
+to:33280,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -8236,10 +8236,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide68510:{
-lb:'Multiple choice A1 - 8',
+lb:'Consider this 2',
 id:68510,
-from:541,
-to:630,
+from:33281,
+to:33370,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -9286,10 +9286,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide63314:{
-lb:'Multiple choice A1 - 3',
+lb:'Lock in now',
 id:63314,
-from:631,
-to:720,
+from:33371,
+to:33460,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -10336,10 +10336,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide68897:{
-lb:'Multiple choice A1 - 10',
+lb:'Reminder',
 id:68897,
-from:721,
-to:810,
+from:33461,
+to:33550,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -12844,10 +12844,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide60547:{
-lb:'Tactic 1 video - 1',
+lb:'Intro video _1',
 id:60547,
-from:811,
-to:3760,
+from:33551,
+to:36500,
 iols:0,
 i360qs:false,
 sdu:98.3,
@@ -13919,10 +13919,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide63650:{
-lb:'Multiple choice A1 - 4',
+lb:'You are a Tycoon!',
 id:63650,
-from:3761,
-to:3850,
+from:36501,
+to:36590,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -16427,10 +16427,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide63503:{
-lb:'Tactic 1 video - 3',
+lb:'Intro video_2',
 id:63503,
-from:3851,
-to:6800,
+from:36591,
+to:39540,
 iols:0,
 i360qs:false,
 sdu:98.3,
@@ -21150,10 +21150,10 @@ vbwr:[-4,-4,2,2],
 vb:[-4,-4,2,2]
 },
 Slide53988:{
-lb:'Multiple choice Q1',
+lb:'Tycoon_Question',
 id:53988,
-from:6801,
-to:6890,
+from:39541,
+to:39630,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -21207,9 +21207,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide53988q0',
-qnq:0,
-pa:6844,
+qs:'Slide53988q7',
+qnq:7,
+pa:39586,
 iph:{
 54027:{
 ts:'',
@@ -21246,7 +21246,7 @@ uid:53988,
 dn:'Slide53988',
 visible:'1'
 },
-Slide53988q0:{
+Slide53988q7:{
 noa:2,
 qt:'',
 it:true,
@@ -21258,7 +21258,7 @@ qst:0,
 ish:false,
 ips:false,
 hma:false,
-qnq:0,
+qnq:7,
 sn:'Slide53988',
 oid:'Quiz_2025125135445',
 iid:'54013',
@@ -21273,7 +21273,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:['si54152c:0','si54164c:1','si54250c:2'],
+ao:[],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -24224,10 +24224,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide64823:{
-lb:'Short answer A6 - 6',
+lb:'Tycoon_Answer',
 id:64823,
-from:6891,
-to:6980,
+from:39631,
+to:39720,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -26740,10 +26740,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide60616:{
-lb:'Tactic 1 video - 2',
+lb:'Intro video_3',
 id:60616,
-from:6981,
-to:9930,
+from:39721,
+to:42670,
 iols:0,
 i360qs:false,
 sdu:98.3,
@@ -27815,10 +27815,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide63848:{
-lb:'Multiple choice A1 - 5',
+lb:'Lets jump in',
 id:63848,
-from:9931,
-to:10020,
+from:42671,
+to:42760,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -34814,10 +34814,10 @@ vbwr:[-4,-4,2,2],
 vb:[-4,-4,2,2]
 },
 Slide56811:{
-lb:'Multiple choice Q2',
+lb:'Tactic 1_Question',
 id:56811,
-from:12971,
-to:13060,
+from:42761,
+to:42850,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -34871,9 +34871,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide56811q1',
-qnq:1,
-pa:13014,
+qs:'Slide56811q7',
+qnq:7,
+pa:42806,
 iph:{
 56850:{
 ts:'',
@@ -34910,7 +34910,7 @@ uid:56811,
 dn:'Slide56811',
 visible:'1'
 },
-Slide56811q1:{
+Slide56811q7:{
 noa:2,
 qt:'',
 it:true,
@@ -34922,7 +34922,7 @@ qst:0,
 ish:true,
 ips:false,
 hma:false,
-qnq:1,
+qnq:7,
 sn:'Slide56811',
 oid:'Quiz_2025125135445',
 iid:'56836',
@@ -34937,7 +34937,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:['si56975c:0','si56987c:1','si57073c:2'],
+ao:[],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -37721,10 +37721,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide64103:{
-lb:'Short answer A6 - 1',
+lb:'Tactic 1_Answer',
 id:64103,
-from:13061,
-to:13150,
+from:42851,
+to:42940,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -44960,10 +44960,10 @@ vbwr:[-4,-4,2,2],
 vb:[-4,-4,2,2]
 },
 Slide54558:{
-lb:'Multiple choice Q3',
+lb:'Tactic 2_Question',
 id:54558,
-from:16101,
-to:16190,
+from:42941,
+to:43030,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -45017,9 +45017,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide54558q2',
-qnq:2,
-pa:16144,
+qs:'Slide54558q7',
+qnq:7,
+pa:42986,
 iph:{
 54597:{
 ts:'',
@@ -45056,7 +45056,7 @@ uid:54558,
 dn:'Slide54558',
 visible:'1'
 },
-Slide54558q2:{
+Slide54558q7:{
 noa:2,
 qt:'',
 it:true,
@@ -45068,7 +45068,7 @@ qst:0,
 ish:false,
 ips:false,
 hma:false,
-qnq:2,
+qnq:7,
 sn:'Slide54558',
 oid:'Quiz_2025125135445',
 iid:'54583',
@@ -45083,7 +45083,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:['si54722c:0','si54734c:1','si54820c:2'],
+ao:[],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -47867,10 +47867,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide64223:{
-lb:'Short answer A6 - 2',
+lb:'Tactic 2_ Answer',
 id:64223,
-from:16191,
-to:16280,
+from:43031,
+to:43120,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -54874,10 +54874,10 @@ vbwr:[-4,-4,2,2],
 vb:[-4,-4,2,2]
 },
 Slide57837:{
-lb:'Multiple choice Q4',
+lb:'Tactic 3_Question 4',
 id:57837,
-from:19231,
-to:19320,
+from:43121,
+to:43210,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -54931,9 +54931,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide57837q3',
-qnq:3,
-pa:19274,
+qs:'Slide57837q7',
+qnq:7,
+pa:43166,
 iph:{
 57876:{
 ts:'',
@@ -54970,7 +54970,7 @@ uid:57837,
 dn:'Slide57837',
 visible:'1'
 },
-Slide57837q3:{
+Slide57837q7:{
 noa:2,
 qt:'',
 it:true,
@@ -54982,7 +54982,7 @@ qst:0,
 ish:false,
 ips:false,
 hma:false,
-qnq:3,
+qnq:7,
 sn:'Slide57837',
 oid:'Quiz_2025125135445',
 iid:'57862',
@@ -54997,7 +54997,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:['si58001c:0','si58013c:1','si58099c:2'],
+ao:[],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -57781,10 +57781,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide64343:{
-lb:'Short answer A6 - 3',
+lb:'Tactic 3_Answer 4',
 id:64343,
-from:19321,
-to:19410,
+from:43211,
+to:43300,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -65020,10 +65020,10 @@ vbwr:[-4,-4,2,2],
 vb:[-4,-4,2,2]
 },
 Slide55106:{
-lb:'Multiple choice Q5',
+lb:'Tactic 4_Question 5',
 id:55106,
-from:22361,
-to:22450,
+from:43301,
+to:43390,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -65077,9 +65077,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide55106q4',
-qnq:4,
-pa:22404,
+qs:'Slide55106q7',
+qnq:7,
+pa:43346,
 iph:{
 55145:{
 ts:'',
@@ -65116,7 +65116,7 @@ uid:55106,
 dn:'Slide55106',
 visible:'1'
 },
-Slide55106q4:{
+Slide55106q7:{
 noa:2,
 qt:'',
 it:true,
@@ -65128,7 +65128,7 @@ qst:0,
 ish:false,
 ips:false,
 hma:false,
-qnq:4,
+qnq:7,
 sn:'Slide55106',
 oid:'Quiz_2025125135445',
 iid:'55131',
@@ -65143,7 +65143,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:['si55270c:0','si55282c:1','si55368c:2'],
+ao:[],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -67927,10 +67927,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide64463:{
-lb:'Short answer A6 - 4',
+lb:'Tactic 4_Answer 5',
 id:64463,
-from:22451,
-to:22540,
+from:43391,
+to:43480,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -74934,10 +74934,10 @@ vbwr:[-4,-4,2,2],
 vb:[-4,-4,2,2]
 },
 Slide58851:{
-lb:'Multiple choice 1',
+lb:'Tactic 5_ Question 6',
 id:58851,
-from:25491,
-to:25580,
+from:43481,
+to:43570,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -74991,9 +74991,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide58851q5',
-qnq:5,
-pa:25534,
+qs:'Slide58851q7',
+qnq:7,
+pa:43526,
 iph:{
 58890:{
 ts:'',
@@ -75030,7 +75030,7 @@ uid:58851,
 dn:'Slide58851',
 visible:'1'
 },
-Slide58851q5:{
+Slide58851q7:{
 noa:2,
 qt:'',
 it:true,
@@ -75042,7 +75042,7 @@ qst:0,
 ish:false,
 ips:false,
 hma:false,
-qnq:5,
+qnq:7,
 sn:'Slide58851',
 oid:'Quiz_2025125135445',
 iid:'58876',
@@ -75057,7 +75057,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:['si59015c:0','si59027c:1','si59113c:2'],
+ao:[],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -77841,10 +77841,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide64703:{
-lb:'Short answer A6 - 5',
+lb:'Tactic 5_Answer 6',
 id:64703,
-from:25581,
-to:25670,
+from:43571,
+to:43660,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -83234,10 +83234,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide63434:{
-lb:'Short answer A6',
+lb:'Reflect',
 id:63434,
-from:28621,
-to:28710,
+from:43661,
+to:43750,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -89026,10 +89026,10 @@ vbwr:[-4,-4,2,2],
 vb:[-4,-4,2,2]
 },
 Slide61807:{
-lb:'Match the column 3',
+lb:'Question 7',
 id:61807,
-from:28711,
-to:28800,
+from:43751,
+to:43840,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -89083,9 +89083,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide61807q6',
-qnq:6,
-pa:28754,
+qs:'Slide61807q7',
+qnq:7,
+pa:43796,
 iph:{
 61788:{
 ts:'',
@@ -89122,7 +89122,7 @@ uid:61807,
 dn:'Slide61807',
 visible:'1'
 },
-Slide61807q6:{
+Slide61807q7:{
 noa:3,
 qt:'',
 it:true,
@@ -89133,7 +89133,7 @@ sat:true,
 qst:0,
 ish:false,
 ips:false,
-qnq:6,
+qnq:7,
 sn:'Slide61807',
 oid:'Quiz_2025125135445',
 iid:'61500',
@@ -94868,10 +94868,10 @@ vbwr:[-4,-4,2,2],
 vb:[-4,-4,2,2]
 },
 Slide69208:{
-lb:'Sequence 1',
+lb:'Question 8',
 id:69208,
-from:28801,
-to:28890,
+from:43841,
+to:43930,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -94927,7 +94927,7 @@ bookmarks:[]
 ,
 qs:'Slide69208q7',
 qnq:7,
-pa:28844,
+pa:43886,
 iph:{
 69247:{
 ts:'',
@@ -97431,10 +97431,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide71364:{
-lb:'Tactic 1 video - 4',
+lb:'Final video',
 id:71364,
-from:28891,
-to:31840,
+from:43931,
+to:46880,
 iols:0,
 i360qs:false,
 sdu:98.3,
@@ -104397,10 +104397,10 @@ vbwr:[-4,-4,2,2],
 vb:[-4,-4,2,2]
 },
 Slide48014:{
-lb:'Result 1',
+lb:'Results',
 id:48014,
-from:32381,
-to:32470,
+from:46881,
+to:46970,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -104456,7 +104456,7 @@ bph:[]
 bookmarks:[]
 ,
 qs:'',
-pa:32411,
+pa:46911,
 iph:{
 71392:{
 ts:'',
@@ -104986,8 +104986,8 @@ vb:[-1,-1,2,2]
 si68025:{
 name:'Block_Button_26',
 type:1268,
-from:32561,
-to:32650,
+from:46971,
+to:47060,
 rp:0,
 rpa:0,
 mdi:'si68025c',
@@ -105154,8 +105154,8 @@ vb:[-1,-1,1,1]
 si68033:{
 name:'Block_Button_Group_26',
 type:1268,
-from:32561,
-to:32650,
+from:46971,
+to:47060,
 rp:0,
 rpa:0,
 mdi:'si68033c',
@@ -105513,10 +105513,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 si68055:{
-name:'Exit_Training',
+name:'ReturnToQualtrics',
 type:29,
-from:32561,
-to:32650,
+from:46971,
+to:47060,
 rp:0,
 rpa:0,
 mdi:'si68055c',
@@ -105544,7 +105544,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.runJavascript(\\"PHNjcmlwdD4KKGZ1bmN0aW9uICgpIHsKICAvLyA9PT0gQ09ORklHID09PQogIGNvbnN0IFFVQUxUUklDU19SRVRVUk5fQkFTRSA9ICJodHRwczovL2Nvcm5lbGwuY2ExLnF1YWx0cmljcy5jb20vamZlL2Zvcm0vU1ZfMUJSQW1zUHZGSjFHNXJvIjsKICBjb25zdCBQQVNTX1RIUkVTSE9MRCA9IDcwOwoKICBmdW5jdGlvbiBmaW5kTnVtYmVyKGtleXdvcmQsIHByZWZlclBlcmNlbnQpIHsKICAgIGNvbnN0IG5vZGVzID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgiYm9keSAqIik7CiAgICBjb25zdCBrdyA9IGtleXdvcmQudG9Mb3dlckNhc2UoKTsKICAgIGZvciAoY29uc3QgZWwgb2Ygbm9kZXMpIHsKICAgICAgY29uc3QgdHh0UmF3ID0gKGVsLnRleHRDb250ZW50IHx8ICIiKTsKICAgICAgaWYgKCF0eHRSYXcpIGNvbnRpbnVlOwogICAgICBjb25zdCB0eHQgPSB0eHRSYXcudHJpbSgpLnRvTG93ZXJDYXNlKCk7CiAgICAgIGlmICghdHh0LmluY2x1ZGVzKGt3KSkgY29udGludWU7CiAgICAgIGlmIChwcmVmZXJQZXJjZW50KSB7CiAgICAgICAgY29uc3QgbVBjdCA9IHR4dFJhdy5tYXRjaCgvKFxkKyg/OlwuXGQrKT8pXHMqJS8pOwogICAgICAgIGlmIChtUGN0KSByZXR1cm4gTnVtYmVyKG1QY3RbMV0pOwogICAgICB9CiAgICAgIGNvbnN0IG0gPSB0eHRSYXcubWF0Y2goLyhcZCsoPzpcLlxkKyk/KS8pOwogICAgICBpZiAobSkgcmV0dXJuIE51bWJlcihtWzFdKTsKICAgIH0KICAgIHJldHVybiBudWxsOwogIH0KCiAgZnVuY3Rpb24gYnVpbGRSZXR1cm5VUkwoKSB7CiAgICBjb25zdCB1c3AgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKHdpbmRvdy5sb2NhdGlvbi5zZWFyY2gpOwogICAgY29uc3QgUElEID0gdXNwLmdldCgiUElEIikgfHwgdXNwLmdldCgicGlkIikgfHwgIiI7CiAgICBjb25zdCBjb25kaXRpb24gPSB1c3AuZ2V0KCJjb25kaXRpb24iKSB8fCAiIjsKCiAgICBjb25zdCBzY29yZVBlcmNlbnQgPQogICAgICBmaW5kTnVtYmVyKCJzY29yZSIsIHRydWUpID8/CiAgICAgIGZpbmROdW1iZXIoInNjb3JlIikgPz8gMDsKCiAgICBjb25zdCBjb3JyZWN0ID0gZmluZE51bWJlcigiY29ycmVjdCIpOwogICAgY29uc3QgdG90YWwgICA9IGZpbmROdW1iZXIoInF1ZXN0aW9uIik7CiAgICBjb25zdCBwYXNzZWQgID0gTnVtYmVyKHNjb3JlUGVyY2VudCkgPj0gUEFTU19USFJFU0hPTEQ7CgogICAgY29uc3QgcXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKCk7CiAgICBpZiAoUElEKSBxcy5zZXQoIlBJRCIsIFBJRCk7CiAgICBpZiAoY29uZGl0aW9uKSBxcy5zZXQoImNvbmRpdGlvbiIsIGNvbmRpdGlvbik7CiAgICBxcy5zZXQoInF1aXpTY29yZSIsIFN0cmluZyhNYXRoLnJvdW5kKE51bWJlcihzY29yZVBlcmNlbnQpIHx8IDApKSk7CiAgICBxcy5zZXQoInBhc3NlZCIsIFN0cmluZyhCb29sZWFuKHBhc3NlZCkpKTsKICAgIGlmICh0eXBlb2YgY29ycmVjdCA9PT0gIm51bWJlciIpIHFzLnNldCgiY29ycmVjdCIsIFN0cmluZyhjb3JyZWN0KSk7CiAgICBpZiAodHlwZW9mIHRvdGFsICAgPT09ICJudW1iZXIiKSBxcy5zZXQoInRvdGFsIiwgICBTdHJpbmcodG90YWwpKTsKCiAgICByZXR1cm4gYCR7UVVBTFRSSUNTX1JFVFVSTl9CQVNFfT8ke3FzLnRvU3RyaW5nKCl9YDsKICB9CgogIGZ1bmN0aW9uIHdpcmVCdXR0b24oKSB7CiAgICAvLyBGaW5kIHlvdXIgYnV0dG9uIGJ5IHZpc2libGUgdGV4dC4gQWRqdXN0IHRoZSB0ZXh0IHRvIG1hdGNoIGV4YWN0bHkuCiAgICBjb25zdCBidXR0b25zID0gQXJyYXkuZnJvbShkb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdidXR0b24sIFtyb2xlPSJidXR0b24iXSwgLmNwX2J1dHRvbiwgLmNwY2xpY2snKSk7CiAgICBjb25zdCBmaW5pc2ggPSBidXR0b25zLmZpbmQoYiA9PiAoYi50ZXh0Q29udGVudCB8fCAiIikudHJpbSgpLnRvTG93ZXJDYXNlKCkgPT09ICJmaW5pc2ggJiByZXR1cm4iKTsKICAgIGlmICghZmluaXNoKSByZXR1cm47IC8vIG5vdCBvbiB0aGUgZmluYWwgc2xpZGUgeWV0CiAgICBmaW5pc2guYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbihlKXsKICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwogICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IGJ1aWxkUmV0dXJuVVJMKCk7CiAgICB9LCB7IG9uY2U6IHRydWUgfSk7CiAgfQoKICAvLyBUcnkgdG8gd2lyZSByZXBlYXRlZGx5IGFzIENhcHRpdmF0ZSBzd2FwcyBzbGlkZXMKICBjb25zdCBvYnMgPSBuZXcgTXV0YXRpb25PYnNlcnZlcigoKSA9PiB3aXJlQnV0dG9uKCkpOwogIG9icy5vYnNlcnZlKGRvY3VtZW50LmJvZHksIHsgY2hpbGRMaXN0OiB0cnVlLCBzdWJ0cmVlOiB0cnVlIH0pOwogIC8vIEFsc28gdHJ5IG9uY2Ugb24gbG9hZAogIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdsb2FkJywgd2lyZUJ1dHRvbik7Cn0pKCk7Cjwvc2NyaXB0PgpgYA==\\",\\"_self\\");"]]}]}',
+oca:'{"scripts":[{"then":[["cp.runJavascript(\\"KGZ1bmN0aW9uICgpIHsKCiAgY29uc3QgUVVBTFRSSUNTX1JFVFVSTl9CQVNFID0KICAgICJodHRwczovL2Nvcm5lbGwuY2ExLnF1YWx0cmljcy5jb20vamZlL2Zvcm0vU1ZfMUJSQW1zUHZGSjFHNXJvIjsKCiAgLy8gUmVhZCBQSUQgJiBjb25kaXRpb24gZnJvbSB0aGUgdHJhaW5pbmcgVVJMCiAgY29uc3QgdXNwID0gbmV3IFVSTFNlYXJjaFBhcmFtcyh3aW5kb3cubG9jYXRpb24uc2VhcmNoKTsKICBjb25zdCBQSUQgPSB1c3AuZ2V0KCJQSUQiKSB8fCAiIjsKICBjb25zdCBjb25kaXRpb24gPSB1c3AuZ2V0KCJjb25kaXRpb24iKSB8fCAiIjsKCiAgLy8gUmVhZCB1c2VyIHZhcmlhYmxlcwogIGZ1bmN0aW9uIGd2KG5hbWUpIHsKICAgIHRyeSB7IHJldHVybiB3aW5kb3cuY3BBUElJbnRlcmZhY2UuZ2V0VmFyaWFibGVWYWx1ZShuYW1lKTsgfQogICAgY2F0Y2goZSkgeyByZXR1cm4gIiI7IH0KICB9CgogIGNvbnN0IHNjb3JlUGVyY2VudCA9IE51bWJlcihndigidV9zY29yZVBlcmNlbnQiKSB8fCAwKTsKICBjb25zdCBjb3JyZWN0ID0gZ3YoInVfY29ycmVjdCIpIHx8ICIiOwogIGNvbnN0IHRvdGFsID0gZ3YoInVfdG90YWwiKSB8fCAiIjsKICBjb25zdCBwYXNzZWQgPSBzY29yZVBlcmNlbnQgPj0gNzA7IC8vIGFkanVzdCBpZiBuZWVkZWQKCiAgLy8gQnVpbGQgcmV0dXJuIFVSTAogIGNvbnN0IHFzID0gbmV3IFVSTFNlYXJjaFBhcmFtcygpOwogIGlmIChQSUQpIHFzLnNldCgiUElEIiwgUElEKTsKICBpZiAoY29uZGl0aW9uKSBxcy5zZXQoImNvbmRpdGlvbiIsIGNvbmRpdGlvbik7CiAgcXMuc2V0KCJxdWl6U2NvcmUiLCBzY29yZVBlcmNlbnQpOwogIHFzLnNldCgicGFzc2VkIiwgcGFzc2VkKTsKICBpZiAoY29ycmVjdCkgcXMuc2V0KCJjb3JyZWN0IiwgY29ycmVjdCk7CiAgaWYgKHRvdGFsKSBxcy5zZXQoInRvdGFsIiwgdG90YWwpOwoKICBjb25zdCBmaW5hbFVSTCA9IGAke1FVQUxUUklDU19SRVRVUk5fQkFTRX0/JHtxcy50b1N0cmluZygpfWA7CgogIC8vIFJlZGlyZWN0IGJhY2sgdG8gUXVhbHRyaWNzCiAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSBmaW5hbFVSTDsKCn0pKCk7CmBg\\",\\"_self\\");"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -106909,10 +106909,10 @@ vbwr:[-2,-2,-1,-1],
 vb:[-2,-2,-1,-1]
 },
 Slide59239:{
-lb:'Blank 1',
+lb:'Closing',
 id:59239,
-from:32741,
-to:32830,
+from:46971,
+to:47060,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -106964,6 +106964,9 @@ iso:false,
 se:false
 }
 ,
+sea:'{"scripts":[{"then":[["cp.assignVariable(\\"var71393\\",\\"0\\",\\"$$Quiz.PercentageScore$$\\")"],["cp.assignVariable(\\"var71394\\",\\"0\\",\\"$$Quiz.CorrectAnswerCount$$\\")"],["cp.assignVariable(\\"var71395\\",\\"0\\",\\"$$Quiz.QuestionCount$$\\")"],["cp.assignVariable(\\"var71396\\",\\"0\\",\\"$$Quiz.PercentageScore$$\\")"]]}]}',
+bph:[]
+,
 bookmarks:[]
 ,
 qs:'',
@@ -106974,6 +106977,26 @@ ts:''
 ,
 68260:{
 ts:''
+}
+,
+71410:{
+ts:'',
+tr:''
+}
+,
+71417:{
+ts:'',
+tr:''
+}
+,
+71423:{
+ts:'',
+tr:''
+}
+,
+71429:{
+ts:'',
+tr:''
 }
 
 }
@@ -107055,7 +107078,7 @@ minScore:0,
 maxPretestScore:0,
 numQuestionsInQuiz:8,
 numQuizAttemptsAllowed:2147483647,
-passingScore:7,
+passingScore:6,
 quizInfoCurrentAttempt:0,
 quizInfoPercentScored:0,
 quizMandateLevel:3,
@@ -107338,7 +107361,7 @@ vt:7
 var375var375:{
 vid:375,
 name:'Quiz.PassPoints',
-vv:7,
+vv:6,
 vvt:1,
 vt:7
 },
@@ -107531,6 +107554,41 @@ vv:0,
 vvt:1,
 vt:0
 },
+var71393var71393:{
+vid:71393,
+name:'u_scorePercent',
+vv:'',
+vvt:2,
+vt:0
+},
+var71394var71394:{
+vid:71394,
+name:'u_correct',
+vv:'',
+vvt:2,
+vt:0
+},
+var71395var71395:{
+vid:71395,
+name:'u_total',
+vv:'',
+vvt:2,
+vt:0
+},
+var71396var71396:{
+vid:71396,
+name:'u_passed',
+vv:'',
+vvt:2,
+vt:0
+},
+var71397var71397:{
+vid:71397,
+name:'u_timeSec',
+vv:'',
+vvt:2,
+vt:0
+},
 variableIdVsNameMap:{
 var346:'LMS.LearnerID',
 var347:'LMS.LearnerName',
@@ -107588,7 +107646,12 @@ var53143:'variableEditBoxNum_7',
 var53330:'variableEditBoxStr_8',
 var53331:'variableEditBoxNum_8',
 var53740:'variableEditBoxStr_9',
-var53741:'variableEditBoxNum_9'
+var53741:'variableEditBoxNum_9',
+var71393:'u_scorePercent',
+var71394:'u_correct',
+var71395:'u_total',
+var71396:'u_passed',
+var71397:'u_timeSec'
 },
 project:{
 fps:30,
@@ -107653,7 +107716,7 @@ vim:0,
 slides:'Slide24910,Slide45138,Slide60010,Slide68623,Slide68373,Slide68510,Slide63314,Slide68897,Slide60547,Slide63650,Slide63503,Slide53988,Slide64823,Slide60616,Slide63848,Slide46813,Slide56811,Slide64103,Slide46888,Slide54558,Slide64223,Slide47061,Slide57837,Slide64343,Slide47234,Slide55106,Slide64463,Slide47505,Slide58851,Slide64703,Slide47580,Slide63434,Slide61807,Slide69208,Slide71364,Slide48014,Slide59239',
 questionSlides:'Slide53988,Slide56811,Slide54558,Slide57837,Slide55106,Slide58851,Slide61807,Slide69208',
 slideVideos:['si60497','si63453','si60566','si46763','si46838','si47011','si47184','si47455','si47530','si71138'],
-questions:'Slide53988q0,Slide54558q2,Slide55106q4,Slide56811q1,Slide57837q3,Slide58851q5,Slide61807q6,Slide69208q7',
+questions:'Slide53988q7,Slide54558q7,Slide55106q7,Slide56811q7,Slide57837q7,Slide58851q7,Slide61807q7,Slide69208q7',
 autoplay:false,
 preloader:true,
 preloaderFileName:'dr/loading.gif',
@@ -107690,7 +107753,7 @@ locale:0
 },
 tocProperties:{
 enableNavigation:true,
-tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":24910,"isQuizSlide":false,"label":"Welcome","slideVisited":false,"type":"slide","id":"Slide24910"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":45138,"isQuizSlide":false,"label":"Welcome zoom in","slideVisited":false,"type":"slide","id":"Slide45138"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":60010,"isQuizSlide":false,"label":"Multiple choice A1 - 1","slideVisited":false,"type":"slide","id":"Slide60010"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":68623,"isQuizSlide":false,"label":"Multiple choice A1 - 9","slideVisited":false,"type":"slide","id":"Slide68623"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":68373,"isQuizSlide":false,"label":"Multiple choice A1 - 7","slideVisited":false,"type":"slide","id":"Slide68373"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":68510,"isQuizSlide":false,"label":"Multiple choice A1 - 8","slideVisited":false,"type":"slide","id":"Slide68510"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":63314,"isQuizSlide":false,"label":"Multiple choice A1 - 3","slideVisited":false,"type":"slide","id":"Slide63314"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":68897,"isQuizSlide":false,"label":"Multiple choice A1 - 10","slideVisited":false,"type":"slide","id":"Slide68897"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":60547,"isQuizSlide":false,"label":"Tactic 1 video - 1","slideVisited":false,"type":"slide","id":"Slide60547"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":63650,"isQuizSlide":false,"label":"Multiple choice A1 - 4","slideVisited":false,"type":"slide","id":"Slide63650"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":63503,"isQuizSlide":false,"label":"Tactic 1 video - 3","slideVisited":false,"type":"slide","id":"Slide63503"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":53988,"isQuizSlide":true,"label":"Multiple choice Q1","slideVisited":false,"type":"slide","id":"Slide53988"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64823,"isQuizSlide":false,"label":"Short answer A6 - 6","slideVisited":false,"type":"slide","id":"Slide64823"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":60616,"isQuizSlide":false,"label":"Tactic 1 video - 2","slideVisited":false,"type":"slide","id":"Slide60616"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":63848,"isQuizSlide":false,"label":"Multiple choice A1 - 5","slideVisited":false,"type":"slide","id":"Slide63848"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":46813,"isQuizSlide":false,"label":"Tactic 1 video","slideVisited":false,"type":"slide","id":"Slide46813"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":56811,"isQuizSlide":true,"label":"Multiple choice Q2","slideVisited":false,"type":"slide","id":"Slide56811"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64103,"isQuizSlide":false,"label":"Short answer A6 - 1","slideVisited":false,"type":"slide","id":"Slide64103"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":46888,"isQuizSlide":false,"label":"Tactic 2 video","slideVisited":false,"type":"slide","id":"Slide46888"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":54558,"isQuizSlide":true,"label":"Multiple choice Q3","slideVisited":false,"type":"slide","id":"Slide54558"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64223,"isQuizSlide":false,"label":"Short answer A6 - 2","slideVisited":false,"type":"slide","id":"Slide64223"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":47061,"isQuizSlide":false,"label":"Tactic 3 video","slideVisited":false,"type":"slide","id":"Slide47061"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":57837,"isQuizSlide":true,"label":"Multiple choice Q4","slideVisited":false,"type":"slide","id":"Slide57837"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64343,"isQuizSlide":false,"label":"Short answer A6 - 3","slideVisited":false,"type":"slide","id":"Slide64343"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":47234,"isQuizSlide":false,"label":"Tactic 4 video","slideVisited":false,"type":"slide","id":"Slide47234"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":55106,"isQuizSlide":true,"label":"Multiple choice Q5","slideVisited":false,"type":"slide","id":"Slide55106"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64463,"isQuizSlide":false,"label":"Short answer A6 - 4","slideVisited":false,"type":"slide","id":"Slide64463"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":47505,"isQuizSlide":false,"label":"Tactic 5 video","slideVisited":false,"type":"slide","id":"Slide47505"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":58851,"isQuizSlide":true,"label":"Multiple choice 1","slideVisited":false,"type":"slide","id":"Slide58851"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64703,"isQuizSlide":false,"label":"Short answer A6 - 5","slideVisited":false,"type":"slide","id":"Slide64703"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":47580,"isQuizSlide":false,"label":"Let\'s recap","slideVisited":false,"type":"slide","id":"Slide47580"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":63434,"isQuizSlide":false,"label":"Short answer A6","slideVisited":false,"type":"slide","id":"Slide63434"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":61807,"isQuizSlide":true,"label":"Match the column 3","slideVisited":false,"type":"slide","id":"Slide61807"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":69208,"isQuizSlide":true,"label":"Sequence 1","slideVisited":false,"type":"slide","id":"Slide69208"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":71364,"isQuizSlide":false,"label":"Tactic 1 video - 4","slideVisited":false,"type":"slide","id":"Slide71364"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":48014,"isQuizSlide":true,"label":"Result 1","slideVisited":false,"type":"slide","id":"Slide48014"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":59239,"isQuizSlide":false,"label":"Blank 1","slideVisited":false,"type":"slide","id":"Slide59239"}],"tocGeneratedOnPreviewClick":false},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":false,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":true,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
+tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":24910,"isQuizSlide":false,"label":"Welcome","slideVisited":false,"type":"slide","id":"Slide24910"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":45138,"isQuizSlide":false,"label":"Welcome zoom in","slideVisited":false,"type":"slide","id":"Slide45138"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":60010,"isQuizSlide":false,"label":"Get motivated","slideVisited":false,"type":"slide","id":"Slide60010"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":68623,"isQuizSlide":false,"label":"Pause and think","slideVisited":false,"type":"slide","id":"Slide68623"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":68373,"isQuizSlide":false,"label":"Consider this","slideVisited":false,"type":"slide","id":"Slide68373"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":68510,"isQuizSlide":false,"label":"Consider this 2","slideVisited":false,"type":"slide","id":"Slide68510"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":63314,"isQuizSlide":false,"label":"Lock in now","slideVisited":false,"type":"slide","id":"Slide63314"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":68897,"isQuizSlide":false,"label":"Reminder","slideVisited":false,"type":"slide","id":"Slide68897"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":60547,"isQuizSlide":false,"label":"Intro video _1","slideVisited":false,"type":"slide","id":"Slide60547"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":63650,"isQuizSlide":false,"label":"You are a Tycoon!","slideVisited":false,"type":"slide","id":"Slide63650"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":63503,"isQuizSlide":false,"label":"Intro video_2","slideVisited":false,"type":"slide","id":"Slide63503"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":53988,"isQuizSlide":true,"label":"Tycoon_Question","slideVisited":false,"type":"slide","id":"Slide53988"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64823,"isQuizSlide":false,"label":"Tycoon_Answer","slideVisited":false,"type":"slide","id":"Slide64823"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":60616,"isQuizSlide":false,"label":"Intro video_3","slideVisited":false,"type":"slide","id":"Slide60616"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":63848,"isQuizSlide":false,"label":"Lets jump in","slideVisited":false,"type":"slide","id":"Slide63848"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":46813,"isQuizSlide":false,"label":"Tactic 1 video","slideVisited":false,"type":"slide","id":"Slide46813"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":56811,"isQuizSlide":true,"label":"Tactic 1_Question","slideVisited":false,"type":"slide","id":"Slide56811"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64103,"isQuizSlide":false,"label":"Tactic 1_Answer","slideVisited":false,"type":"slide","id":"Slide64103"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":46888,"isQuizSlide":false,"label":"Tactic 2 video","slideVisited":false,"type":"slide","id":"Slide46888"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":54558,"isQuizSlide":true,"label":"Tactic 2_Question","slideVisited":false,"type":"slide","id":"Slide54558"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64223,"isQuizSlide":false,"label":"Tactic 2_ Answer","slideVisited":false,"type":"slide","id":"Slide64223"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":47061,"isQuizSlide":false,"label":"Tactic 3 video","slideVisited":false,"type":"slide","id":"Slide47061"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":57837,"isQuizSlide":true,"label":"Tactic 3_Question 4","slideVisited":false,"type":"slide","id":"Slide57837"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64343,"isQuizSlide":false,"label":"Tactic 3_Answer 4","slideVisited":false,"type":"slide","id":"Slide64343"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":47234,"isQuizSlide":false,"label":"Tactic 4 video","slideVisited":false,"type":"slide","id":"Slide47234"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":55106,"isQuizSlide":true,"label":"Tactic 4_Question 5","slideVisited":false,"type":"slide","id":"Slide55106"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64463,"isQuizSlide":false,"label":"Tactic 4_Answer 5","slideVisited":false,"type":"slide","id":"Slide64463"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":47505,"isQuizSlide":false,"label":"Tactic 5 video","slideVisited":false,"type":"slide","id":"Slide47505"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":58851,"isQuizSlide":true,"label":"Tactic 5_ Question 6","slideVisited":false,"type":"slide","id":"Slide58851"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":64703,"isQuizSlide":false,"label":"Tactic 5_Answer 6","slideVisited":false,"type":"slide","id":"Slide64703"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":47580,"isQuizSlide":false,"label":"Let\'s recap","slideVisited":false,"type":"slide","id":"Slide47580"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":63434,"isQuizSlide":false,"label":"Reflect","slideVisited":false,"type":"slide","id":"Slide63434"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":61807,"isQuizSlide":true,"label":"Question 7","slideVisited":false,"type":"slide","id":"Slide61807"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":69208,"isQuizSlide":true,"label":"Question 8","slideVisited":false,"type":"slide","id":"Slide69208"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":71364,"isQuizSlide":false,"label":"Final video","slideVisited":false,"type":"slide","id":"Slide71364"},{"parentId":null,"isVisible":true,"isResultSlide":true,"labelShouldBeInSync":true,"originalId":48014,"isQuizSlide":true,"label":"Results","slideVisited":false,"type":"slide","id":"Slide48014"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":59239,"isQuizSlide":false,"label":"Closing","slideVisited":false,"type":"slide","id":"Slide59239"}],"tocGeneratedOnPreviewClick":false},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":false,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":true,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 usedFonts:{
 usedFonts:'["Georgia","Arial","Rosario"]'
@@ -107729,7 +107792,7 @@ text:[]
 }
 ,{
 link:60547,
-text:['""']
+text:['""','""']
 }
 ,{
 link:63650,
@@ -107737,7 +107800,7 @@ text:[]
 }
 ,{
 link:63503,
-text:['""']
+text:['""','""']
 }
 ,{
 link:53988,
@@ -107749,7 +107812,7 @@ text:[]
 }
 ,{
 link:60616,
-text:['""']
+text:['""','""']
 }
 ,{
 link:63848,
@@ -107833,7 +107896,7 @@ text:[]
 }
 ,{
 link:71364,
-text:['""']
+text:['""','""']
 }
 ,{
 link:59239,
@@ -108391,7 +108454,7 @@ cp.cv('Quiz.InScope',0,1,15,0);
 cp.cv('Quiz.MaxScore',8,1,1000,0);
 cp.cv('Quiz.Pass',0,1,15,0);
 cp.cv('Quiz.PassPercentage',80,1,1000,0);
-cp.cv('Quiz.PassPoints',7,1,1000,0);
+cp.cv('Quiz.PassPoints',6,1,1000,0);
 cp.cv('Quiz.PercentageScore',0,1,15,0);
 cp.cv('Quiz.QuestionCount',8,1,1000,0);
 cp.cv('Quiz.Score',0,1,15,0);
@@ -108407,6 +108470,11 @@ cp.cv('cpInfoPrevFrame',0,1,15,0);
 cp.cv('LMS.CourseName','',0,15,0);
 cp.cv('LMS.LearnerID','',0,15,0);
 cp.cv('LMS.LearnerName','',0,15,0);
+cp.cv('u_correct','',0,15,0);
+cp.cv('u_passed','',0,15,0);
+cp.cv('u_scorePercent','',0,15,0);
+cp.cv('u_timeSec','',0,15,0);
+cp.cv('u_total','',0,15,0);
 cp.cv('variableEditBoxNum_1','',0,15,0);
 cp.cv('variableEditBoxNum_2','',0,15,0);
 cp.cv('variableEditBoxNum_3','',0,15,0);
@@ -108425,5 +108493,5 @@ cp.cv('variableEditBoxStr_6','',0,15,0);
 cp.cv('variableEditBoxStr_7','',0,15,0);
 cp.cv('variableEditBoxStr_8','',0,15,0);
 cp.cv('variableEditBoxStr_9','',0,15,0);
-};cp.ReportingVariables="LMS.CourseName,LMS.LearnerID,LMS.LearnerName,variableEditBoxNum_1,variableEditBoxNum_2,variableEditBoxNum_3,variableEditBoxNum_4,variableEditBoxNum_5,variableEditBoxNum_6,variableEditBoxNum_7,variableEditBoxNum_8,variableEditBoxNum_9,variableEditBoxStr_1,variableEditBoxStr_2,variableEditBoxStr_3,variableEditBoxStr_4,variableEditBoxStr_5,variableEditBoxStr_6,variableEditBoxStr_7,variableEditBoxStr_8,variableEditBoxStr_9,";
+};cp.ReportingVariables="LMS.CourseName,LMS.LearnerID,LMS.LearnerName,u_correct,u_passed,u_scorePercent,u_timeSec,u_total,variableEditBoxNum_1,variableEditBoxNum_2,variableEditBoxNum_3,variableEditBoxNum_4,variableEditBoxNum_5,variableEditBoxNum_6,variableEditBoxNum_7,variableEditBoxNum_8,variableEditBoxNum_9,variableEditBoxStr_1,variableEditBoxStr_2,variableEditBoxStr_3,variableEditBoxStr_4,variableEditBoxStr_5,variableEditBoxStr_6,variableEditBoxStr_7,variableEditBoxStr_8,variableEditBoxStr_9,";
 };cp.sbw=0;cp.useg=0;cp.geo=0;cp.pg=0;cp.win8=0;cp.autoGrow=1;cp.fluidFont=1;

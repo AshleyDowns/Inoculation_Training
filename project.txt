@@ -690,7 +690,7 @@
 {
 "id":"Slide60010",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 1",
+"instance":"Get motivated",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -814,7 +814,7 @@
 {
 "id":"Slide68623",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 9",
+"instance":"Pause and think",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -951,7 +951,7 @@
 {
 "id":"Slide68373",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 7",
+"instance":"Consider this",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -1088,7 +1088,7 @@
 {
 "id":"Slide68510",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 8",
+"instance":"Consider this 2",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -1225,7 +1225,7 @@
 {
 "id":"Slide63314",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 3",
+"instance":"Lock in now",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -1349,7 +1349,7 @@
 {
 "id":"Slide68897",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 10",
+"instance":"Reminder",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -1646,7 +1646,7 @@
 {
 "id":"Slide60547",
 "class":"Normal Slide",
-"instance":"Tactic 1 video - 1",
+"instance":"Intro video _1",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -1783,7 +1783,7 @@
 {
 "id":"Slide63650",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 4",
+"instance":"You are a Tycoon!",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -2080,7 +2080,7 @@
 {
 "id":"Slide63503",
 "class":"Normal Slide",
-"instance":"Tactic 1 video - 3",
+"instance":"Intro video_2",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -2460,7 +2460,7 @@
 {
 "id":"Slide53988",
 "class":"Question Slide",
-"instance":"Multiple choice Q1",
+"instance":"Tycoon_Question",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -2481,7 +2481,7 @@
 "type":"graded",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si54164"],
+"correctAnswers":[],
 "score":{
 "weight":1,
 "penalty":0
@@ -2823,7 +2823,7 @@
 {
 "id":"Slide64823",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 6",
+"instance":"Tycoon_Answer",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -3094,7 +3094,7 @@
 {
 "id":"Slide60616",
 "class":"Normal Slide",
-"instance":"Tactic 1 video - 2",
+"instance":"Intro video_3",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -3244,7 +3244,7 @@
 {
 "id":"Slide63848",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 5",
+"instance":"Lets jump in",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -3930,7 +3930,7 @@
 {
 "id":"Slide56811",
 "class":"Question Slide",
-"instance":"Multiple choice Q2",
+"instance":"Tactic 1_Question",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -3951,7 +3951,7 @@
 "type":"graded",
 "interactionType":"choice",
 "ramdomized":true,
-"correctAnswers":["si56987"],
+"correctAnswers":[],
 "score":{
 "weight":1,
 "penalty":0
@@ -4293,7 +4293,7 @@
 {
 "id":"Slide64103",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 1",
+"instance":"Tactic 1_Answer",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -4957,7 +4957,7 @@
 {
 "id":"Slide54558",
 "class":"Question Slide",
-"instance":"Multiple choice Q3",
+"instance":"Tactic 2_Question",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -4978,7 +4978,7 @@
 "type":"graded",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si54722"],
+"correctAnswers":[],
 "score":{
 "weight":1,
 "penalty":0
@@ -5281,7 +5281,7 @@
 {
 "id":"Slide64223",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 2",
+"instance":"Tactic 2_ Answer",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -5928,7 +5928,7 @@
 {
 "id":"Slide57837",
 "class":"Question Slide",
-"instance":"Multiple choice Q4",
+"instance":"Tactic 3_Question 4",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -5949,7 +5949,7 @@
 "type":"graded",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si58099"],
+"correctAnswers":[],
 "score":{
 "weight":1,
 "penalty":0
@@ -6278,7 +6278,7 @@
 {
 "id":"Slide64343",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 3",
+"instance":"Tactic 3_Answer 4",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -6929,7 +6929,7 @@
 {
 "id":"Slide55106",
 "class":"Question Slide",
-"instance":"Multiple choice Q5",
+"instance":"Tactic 4_Question 5",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -6950,7 +6950,7 @@
 "type":"graded",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si55270"],
+"correctAnswers":[],
 "score":{
 "weight":1,
 "penalty":0
@@ -7227,7 +7227,7 @@
 {
 "id":"Slide64463",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 4",
+"instance":"Tactic 4_Answer 5",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -7848,7 +7848,7 @@
 {
 "id":"Slide58851",
 "class":"Question Slide",
-"instance":"Multiple choice 1",
+"instance":"Tactic 5_ Question 6",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -7869,7 +7869,7 @@
 "type":"graded",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si59027"],
+"correctAnswers":[],
 "score":{
 "weight":1,
 "penalty":0
@@ -8185,7 +8185,7 @@
 {
 "id":"Slide64703",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 5",
+"instance":"Tactic 5_Answer 6",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -8789,7 +8789,7 @@
 {
 "id":"Slide63434",
 "class":"Normal Slide",
-"instance":"Short answer A6",
+"instance":"Reflect",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -9240,7 +9240,7 @@
 {
 "id":"Slide61807",
 "class":"Question Slide",
-"instance":"Match the column 3",
+"instance":"Question 7",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -9709,7 +9709,7 @@
 {
 "id":"Slide69208",
 "class":"Question Slide",
-"instance":"Sequence 1",
+"instance":"Question 8",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -10010,7 +10010,7 @@
 {
 "id":"Slide71364",
 "class":"Normal Slide",
-"instance":"Tactic 1 video - 4",
+"instance":"Final video",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -10446,7 +10446,7 @@
 {
 "id":"Slide48014",
 "class":"Question Slide",
-"instance":"Result 1",
+"instance":"Results",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -10627,7 +10627,7 @@
 {
 "id":"si68055",
 "class":"TODO::Senthil",
-"instance":"Exit_Training",
+"instance":"ReturnToQualtrics",
 "roles":{
 "click":{
 "subtype":"button"
@@ -10801,7 +10801,7 @@
 {
 "id":"Slide59239",
 "class":"Normal Slide",
-"instance":"Blank 1",
+"instance":"Closing",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -10840,10 +10840,10 @@
 "branched":false,
 "submitAll":false,
 "review":true,
-"questions":["Slide53988q0","Slide54558q2","Slide55106q4","Slide56811q1","Slide57837q3","Slide58851q5","Slide61807q6","Slide69208q7"],
+"questions":["Slide53988q7","Slide54558q7","Slide55106q7","Slide56811q7","Slide57837q7","Slide58851q7","Slide61807q7","Slide69208q7"],
 "minScore":0,
 "maxScore":8,
-"passScore":7
+"passScore":6
 }
 
 }
@@ -10894,55 +10894,55 @@
 }
 ,{
 "id":"Slide60010",
-"title":"Multiple choice A1 - 1"
+"title":"Get motivated"
 }
 ,{
 "id":"Slide68623",
-"title":"Multiple choice A1 - 9"
+"title":"Pause and think"
 }
 ,{
 "id":"Slide68373",
-"title":"Multiple choice A1 - 7"
+"title":"Consider this"
 }
 ,{
 "id":"Slide68510",
-"title":"Multiple choice A1 - 8"
+"title":"Consider this 2"
 }
 ,{
 "id":"Slide63314",
-"title":"Multiple choice A1 - 3"
+"title":"Lock in now"
 }
 ,{
 "id":"Slide68897",
-"title":"Multiple choice A1 - 10"
+"title":"Reminder"
 }
 ,{
 "id":"Slide60547",
-"title":"Tactic 1 video - 1"
+"title":"Intro video _1"
 }
 ,{
 "id":"Slide63650",
-"title":"Multiple choice A1 - 4"
+"title":"You are a Tycoon!"
 }
 ,{
 "id":"Slide63503",
-"title":"Tactic 1 video - 3"
+"title":"Intro video_2"
 }
 ,{
 "id":"Slide53988",
-"title":"Multiple choice Q1"
+"title":"Tycoon_Question"
 }
 ,{
 "id":"Slide64823",
-"title":"Short answer A6 - 6"
+"title":"Tycoon_Answer"
 }
 ,{
 "id":"Slide60616",
-"title":"Tactic 1 video - 2"
+"title":"Intro video_3"
 }
 ,{
 "id":"Slide63848",
-"title":"Multiple choice A1 - 5"
+"title":"Lets jump in"
 }
 ,{
 "id":"Slide46813",
@@ -10950,11 +10950,11 @@
 }
 ,{
 "id":"Slide56811",
-"title":"Multiple choice Q2"
+"title":"Tactic 1_Question"
 }
 ,{
 "id":"Slide64103",
-"title":"Short answer A6 - 1"
+"title":"Tactic 1_Answer"
 }
 ,{
 "id":"Slide46888",
@@ -10962,11 +10962,11 @@
 }
 ,{
 "id":"Slide54558",
-"title":"Multiple choice Q3"
+"title":"Tactic 2_Question"
 }
 ,{
 "id":"Slide64223",
-"title":"Short answer A6 - 2"
+"title":"Tactic 2_ Answer"
 }
 ,{
 "id":"Slide47061",
@@ -10974,11 +10974,11 @@
 }
 ,{
 "id":"Slide57837",
-"title":"Multiple choice Q4"
+"title":"Tactic 3_Question 4"
 }
 ,{
 "id":"Slide64343",
-"title":"Short answer A6 - 3"
+"title":"Tactic 3_Answer 4"
 }
 ,{
 "id":"Slide47234",
@@ -10986,11 +10986,11 @@
 }
 ,{
 "id":"Slide55106",
-"title":"Multiple choice Q5"
+"title":"Tactic 4_Question 5"
 }
 ,{
 "id":"Slide64463",
-"title":"Short answer A6 - 4"
+"title":"Tactic 4_Answer 5"
 }
 ,{
 "id":"Slide47505",
@@ -10998,11 +10998,11 @@
 }
 ,{
 "id":"Slide58851",
-"title":"Multiple choice 1"
+"title":"Tactic 5_ Question 6"
 }
 ,{
 "id":"Slide64703",
-"title":"Short answer A6 - 5"
+"title":"Tactic 5_Answer 6"
 }
 ,{
 "id":"Slide47580",
@@ -11010,27 +11010,27 @@
 }
 ,{
 "id":"Slide63434",
-"title":"Short answer A6"
+"title":"Reflect"
 }
 ,{
 "id":"Slide61807",
-"title":"Match the column 3"
+"title":"Question 7"
 }
 ,{
 "id":"Slide69208",
-"title":"Sequence 1"
+"title":"Question 8"
 }
 ,{
 "id":"Slide71364",
-"title":"Tactic 1 video - 4"
+"title":"Final video"
 }
 ,{
 "id":"Slide48014",
-"title":"Result 1"
+"title":"Results"
 }
 ,{
 "id":"Slide59239",
-"title":"Blank 1"
+"title":"Closing"
 }
 ]
 }
