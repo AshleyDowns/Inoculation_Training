@@ -1,8 +1,8 @@
-// redirect.js
+// return.js  (loads after Captivate scripts)
 (function () {
-
   // Get ?param=value from URL
   function getQueryParam(name) {
+    // IMPORTANT: use plain '&' in JS files, not '&amp;'
     var match = new RegExp('[?&]' + name + '=([^&#]*)').exec(window.location.search);
     return match ? decodeURIComponent(match[1].replace(/\+/g, ' ')) : null;
   }
@@ -10,6 +10,7 @@
   // Read a Captivate variable safely
   function getCaptivateVar(name) {
     try {
+      // IMPORTANT: use &&, not &amp;&amp;
       if (window.cpAPIInterface && typeof window.cpAPIInterface.getVariableValue === 'function') {
         return window.cpAPIInterface.getVariableValue(name);
       }
@@ -19,18 +20,14 @@
 
   // Pull only quizScore from Captivate
   function collectTrainingMetrics() {
-    // Correct Captivate JS variable for points scored:
+    // Captivate JS variable for points scored
     var quizScore = Number(getCaptivateVar('cpQuizInfoPointsscored')) || 0;
     return { quizScore };
   }
 
   // Optional safety whitelist
   function isAllowedQualtricsHost(hostname) {
-    return [
-      'cornell.qualtrics.com',
-      'qualtrics.com',
-      'www.qualtrics.com'
-    ].includes(hostname);
+    return ['cornell.qualtrics.com', 'qualtrics.com', 'www.qualtrics.com'].includes(hostname);
   }
 
   // Main function (called from Captivate on final button)
@@ -59,11 +56,11 @@
 
     // 3) Optional: warn if not a Qualtrics domain
     if (!isAllowedQualtricsHost(finalUrl.hostname)) {
-      console.warn('Non‑Qualtrics domain in returnUrl:', finalUrl.hostname);
+      console.warn('Non-Qualtrics domain in returnUrl:', finalUrl.hostname);
     }
 
-    // 4) Forward ONLY pid and condition if present in training URL
-    var PID = getQueryParam('PID');
+    // 4) Forward ONLY PID and condition if present in training URL
+    var PID = getQueryParam('PID');           // keep name consistent with your Qualtrics param
     if (PID) finalUrl.searchParams.set('PID', PID);
 
     var condition = getQueryParam('condition');
@@ -77,5 +74,4 @@
     console.log('Redirecting to:', finalUrl.toString());
     window.location.assign(finalUrl.toString());
   };
-
 })();
