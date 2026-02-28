@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:49401,
-to:49490,
+from:49941,
+to:50030,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -89171,8 +89171,8 @@ itemlb:[]
 si72770:{
 name:'Scenario-Block_106',
 type:1268,
-from:49491,
-to:49580,
+from:49761,
+to:49850,
 rp:0,
 rpa:0,
 mdi:'si72770c',
@@ -89196,7 +89196,7 @@ isOverridden:true
 }
 ]
 ,
-widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":600,"autoFit":true,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_FIT","padding":{"right":5,"tablet":{"top":0,"right":5,"left":5,"bottom":0},"bottom":0,"mobile":{"top":0,"right":5,"left":5,"bottom":0},"top":0,"isDTMLinked":false,"left":4},"designOptionStyles":{"all":{"display":"flex","flexDirection":"row","gap":"0px"},"tablet":{},"mobile":{"flexDirection":"column"}},"appearanceProperties":{}}',
+widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":600,"autoFit":true,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_FIT","padding":{"right":4,"tablet":{"top":0,"right":5,"left":5,"bottom":0},"bottom":0,"mobile":{"top":0,"right":5,"left":5,"bottom":0},"top":0,"isDTMLinked":false,"left":3},"designOptionStyles":{"all":{"display":"flex","flexDirection":"row","gap":"0px"},"tablet":{},"mobile":{"flexDirection":"column"}},"appearanceProperties":{}}',
 retainState:false,
 immo:false,
 apsn:'Slide72957',
@@ -89217,7 +89217,7 @@ t:1268
 ]
 ,
 containerType:'scenario-block',
-widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":600,"autoFit":true,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_FIT","padding":{"right":5,"tablet":{"top":0,"right":5,"left":5,"bottom":0},"bottom":0,"mobile":{"top":0,"right":5,"left":5,"bottom":0},"top":0,"isDTMLinked":false,"left":4},"designOptionStyles":{"all":{"display":"flex","flexDirection":"row","gap":"0px"},"tablet":{},"mobile":{"flexDirection":"column"}},"appearanceProperties":{}}',
+widgetProps:'{"visibilityInfo":{"isDerivedFromChild":true},"imageHeight":600,"autoFit":true,"alignment":{"isDerivedFromChild":true},"canBeCard":false,"imageBehavior":"IG_FIT","padding":{"right":4,"tablet":{"top":0,"right":5,"left":5,"bottom":0},"bottom":0,"mobile":{"top":0,"right":5,"left":5,"bottom":0},"top":0,"isDTMLinked":false,"left":3},"designOptionStyles":{"all":{"display":"flex","flexDirection":"row","gap":"0px"},"tablet":{},"mobile":{"flexDirection":"column"}},"appearanceProperties":{}}',
 option:'SINGLE_SCENARIO_CUSTOM_OPTION_3',
 padding:{
 left:0,
@@ -89694,8 +89694,8 @@ vb:[-1,-1,4097,4097]
 si72764:{
 name:'Character_Group_107',
 type:1268,
-from:49491,
-to:49580,
+from:49761,
+to:49850,
 rp:0,
 rpa:0,
 mdi:'si72764c',
@@ -89863,8 +89863,8 @@ vb:[-1,-1,1,1]
 si72729:{
 name:'Text_1228',
 type:1250,
-from:49491,
-to:49580,
+from:49761,
+to:49850,
 rp:0,
 rpa:0,
 mdi:'si72729c',
@@ -89894,7 +89894,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"ep4hs","text":"That was a hard question. In the final few slides, you will start to see it all come together. Lock in!","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":103,"style":"textShadowBlur:8px"},{"offset":25,"length":78,"style":"color:#f6f4f8"},{"offset":0,"length":103,"style":"mobile-fontSize:20"},{"offset":0,"length":103,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":103,"style":"textShadowColor:#19191929"},{"offset":0,"length":103,"style":"textShadowX:0px"},{"offset":0,"length":103,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":103,"style":"hlnkt:wp"},{"offset":0,"length":103,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":103,"style":"tablet-fontSize:20"},{"offset":0,"length":103,"style":"fontStyle:normal"},{"offset":0,"length":103,"style":"textOutlineEnable:false"},{"offset":0,"length":103,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":103,"style":"opacity:1"},{"offset":0,"length":103,"style":"hlnke:true"},{"offset":0,"length":103,"style":"defaultTextShadow:none"},{"offset":0,"length":103,"style":"backgroundColor:unset"},{"offset":0,"length":103,"style":"textShadow:none"},{"offset":0,"length":103,"style":"fontStretch:normal"},{"offset":0,"length":103,"style":"fontType:regular"},{"offset":0,"length":103,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":103,"style":"textShadowY:4px"},{"offset":0,"length":103,"style":"lineHeight:135%"},{"offset":0,"length":103,"style":"letterSpacing:0%"},{"offset":0,"length":103,"style":"textHighlightEnable:false"},{"offset":0,"length":103,"style":"textTransform:none"},{"offset":0,"length":103,"style":"desktop-fontSize:60"},{"offset":0,"length":103,"style":"textShadowOpacity:none"},{"offset":0,"length":103,"style":"overridden:true"},{"offset":0,"length":103,"style":"textDecoration:none"},{"offset":0,"length":103,"style":"fontFamily:Georgia"},{"offset":0,"length":103,"style":"borderBottomStyle:none"},{"offset":0,"length":103,"style":"textShadowEnable:false"},{"offset":0,"length":103,"style":"hlnk:"},{"offset":0,"length":103,"style":"fontWeight:normal"},{"offset":0,"length":25,"style":"color:#c38ef7"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"ep4hs","text":"That was a hard question but you did great! In the final few slides, you will start to see it all come together. ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":113,"style":"textTransform:none"},{"offset":0,"length":113,"style":"desktop-fontSize:60"},{"offset":0,"length":113,"style":"textShadowOpacity:none"},{"offset":0,"length":113,"style":"overridden:true"},{"offset":0,"length":113,"style":"textDecoration:none"},{"offset":0,"length":113,"style":"fontFamily:Georgia"},{"offset":0,"length":113,"style":"borderBottomStyle:none"},{"offset":0,"length":113,"style":"textShadowEnable:false"},{"offset":0,"length":113,"style":"hlnk:"},{"offset":0,"length":113,"style":"fontWeight:normal"},{"offset":0,"length":43,"style":"color:#c38ef7"},{"offset":0,"length":113,"style":"textShadowBlur:8px"},{"offset":43,"length":70,"style":"color:#f6f4f8"},{"offset":0,"length":113,"style":"mobile-fontSize:20"},{"offset":0,"length":113,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":113,"style":"textShadowColor:#19191929"},{"offset":0,"length":113,"style":"textShadowX:0px"},{"offset":0,"length":113,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":113,"style":"hlnkt:wp"},{"offset":0,"length":113,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":113,"style":"tablet-fontSize:20"},{"offset":0,"length":113,"style":"fontStyle:normal"},{"offset":0,"length":113,"style":"textOutlineEnable:false"},{"offset":0,"length":113,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":113,"style":"opacity:1"},{"offset":0,"length":113,"style":"hlnke:true"},{"offset":0,"length":113,"style":"defaultTextShadow:none"},{"offset":0,"length":113,"style":"backgroundColor:unset"},{"offset":0,"length":113,"style":"textShadow:none"},{"offset":0,"length":113,"style":"fontStretch:normal"},{"offset":0,"length":113,"style":"fontType:regular"},{"offset":0,"length":113,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":113,"style":"textShadowY:4px"},{"offset":0,"length":113,"style":"lineHeight:135%"},{"offset":0,"length":113,"style":"letterSpacing:0%"},{"offset":0,"length":113,"style":"textHighlightEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-detail-4","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -91938,8 +91938,8 @@ vb:[-2,-2,-1,-1]
 Slide72957:{
 lb:'Behaviors_Answer 7',
 id:72957,
-from:49491,
-to:49580,
+from:49761,
+to:49850,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -92031,8 +92031,8 @@ visible:'1'
 si69257:{
 name:'ResponsiveContainer_1096',
 type:1268,
-from:49311,
-to:49400,
+from:49851,
+to:49940,
 rp:0,
 rpa:0,
 mdi:'si69257c',
@@ -92207,8 +92207,8 @@ vb:[-1,-1,1,1]
 si69265:{
 name:'$container-sequence-card_name_1',
 type:1268,
-from:49311,
-to:49400,
+from:49851,
+to:49940,
 rp:0,
 rpa:0,
 mdi:'si69265c',
@@ -92597,8 +92597,8 @@ vb:[-2,-2,150,30]
 si69280:{
 name:'Text_1215',
 type:1250,
-from:49311,
-to:49400,
+from:49851,
+to:49940,
 rp:0,
 rpa:0,
 mdi:'si69280c',
@@ -92628,7 +92628,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"cli9u","text":"Let\'s review","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":12,"style":"textOutlineEnable:false"},{"offset":0,"length":12,"style":"opacity:1"},{"offset":0,"length":12,"style":"hlnke:true"},{"offset":0,"length":12,"style":"defaultTextShadow:none"},{"offset":0,"length":12,"style":"backgroundColor:unset"},{"offset":0,"length":12,"style":"textShadow:none"},{"offset":0,"length":12,"style":"textShadowX:0px"},{"offset":0,"length":12,"style":"fontStretch:normal"},{"offset":0,"length":12,"style":"fontType:regular"},{"offset":0,"length":12,"style":"color:#ffffff"},{"offset":0,"length":12,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":12,"style":"textShadowY:4px"},{"offset":0,"length":12,"style":"letterSpacing:0%"},{"offset":0,"length":12,"style":"textHighlightEnable:false"},{"offset":0,"length":12,"style":"textTransform:none"},{"offset":0,"length":12,"style":"desktop-fontSize:60"},{"offset":0,"length":12,"style":"textShadowOpacity:none"},{"offset":0,"length":12,"style":"overridden:true"},{"offset":0,"length":12,"style":"textDecoration:none"},{"offset":0,"length":12,"style":"lineHeight:130%"},{"offset":0,"length":12,"style":"fontFamily:Georgia"},{"offset":0,"length":12,"style":"borderBottomStyle:none"},{"offset":0,"length":12,"style":"textShadowEnable:false"},{"offset":0,"length":12,"style":"hlnk:"},{"offset":0,"length":12,"style":"fontWeight:normal"},{"offset":0,"length":12,"style":"textShadowBlur:8px"},{"offset":0,"length":12,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":12,"style":"textShadowColor:#19191929"},{"offset":0,"length":12,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":12,"style":"mobile-fontSize:18"},{"offset":0,"length":12,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":12,"style":"hlnkt:wp"},{"offset":0,"length":12,"style":"fontStyle:normal"},{"offset":0,"length":12,"style":"tablet-fontSize:20"},{"offset":0,"length":12,"style":"defaultTextStrokeWidth:1px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"647gs","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"e1cpd","text":"Rearrange the tactics of digital manipulation that prior videos introduced you to. The purple letter of each will then spell our code word :)  ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":143,"style":"textShadow:none"},{"offset":0,"length":143,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":143,"style":"hlnkt:wp"},{"offset":0,"length":143,"style":"textShadowColor:#19191929"},{"offset":0,"length":143,"style":"tablet-fontSize:20"},{"offset":0,"length":143,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":143,"style":"textOutlineEnable:false"},{"offset":0,"length":143,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":143,"style":"opacity:1"},{"offset":0,"length":143,"style":"fontStyle:normal"},{"offset":0,"length":9,"style":"color:#f3de8a"},{"offset":0,"length":143,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":143,"style":"hlnke:true"},{"offset":0,"length":143,"style":"defaultTextShadow:none"},{"offset":0,"length":143,"style":"backgroundColor:unset"},{"offset":0,"length":143,"style":"mobile-fontSize:18"},{"offset":0,"length":143,"style":"textShadowX:0px"},{"offset":0,"length":143,"style":"fontStretch:normal"},{"offset":0,"length":143,"style":"fontType:regular"},{"offset":9,"length":5,"style":"color:#ffffff"},{"offset":45,"length":88,"style":"color:#ffffff"},{"offset":142,"length":1,"style":"color:#ffffff"},{"offset":0,"length":143,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":143,"style":"textShadowY:4px"},{"offset":0,"length":143,"style":"letterSpacing:0%"},{"offset":0,"length":143,"style":"textHighlightEnable:false"},{"offset":0,"length":143,"style":"textTransform:none"},{"offset":0,"length":143,"style":"textShadowOpacity:none"},{"offset":0,"length":143,"style":"overridden:true"},{"offset":0,"length":143,"style":"textDecoration:none"},{"offset":0,"length":143,"style":"lineHeight:130%"},{"offset":0,"length":143,"style":"fontFamily:Georgia"},{"offset":0,"length":143,"style":"borderBottomStyle:none"},{"offset":133,"length":9,"style":"color:#fdfcf7"},{"offset":0,"length":143,"style":"textShadowEnable:false"},{"offset":0,"length":143,"style":"hlnk:"},{"offset":0,"length":143,"style":"fontWeight:normal"},{"offset":0,"length":143,"style":"textShadowBlur:8px"},{"offset":0,"length":143,"style":"desktop-fontSize:36"},{"offset":14,"length":31,"style":"color:#8fd4e7"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"cli9u","text":"Let\'s review","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":12,"style":"textHighlightEnable:false"},{"offset":0,"length":12,"style":"textTransform:none"},{"offset":0,"length":12,"style":"desktop-fontSize:60"},{"offset":0,"length":12,"style":"textShadowOpacity:none"},{"offset":0,"length":12,"style":"overridden:true"},{"offset":0,"length":12,"style":"textDecoration:none"},{"offset":0,"length":12,"style":"lineHeight:130%"},{"offset":0,"length":12,"style":"fontFamily:Georgia"},{"offset":0,"length":12,"style":"borderBottomStyle:none"},{"offset":0,"length":12,"style":"textShadowEnable:false"},{"offset":0,"length":12,"style":"hlnk:"},{"offset":0,"length":12,"style":"fontWeight:normal"},{"offset":0,"length":12,"style":"textShadowBlur:8px"},{"offset":0,"length":12,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":12,"style":"textShadowColor:#19191929"},{"offset":0,"length":12,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":12,"style":"mobile-fontSize:18"},{"offset":0,"length":12,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":12,"style":"hlnkt:wp"},{"offset":0,"length":12,"style":"fontStyle:normal"},{"offset":0,"length":12,"style":"tablet-fontSize:20"},{"offset":0,"length":12,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":12,"style":"textOutlineEnable:false"},{"offset":0,"length":12,"style":"opacity:1"},{"offset":0,"length":12,"style":"hlnke:true"},{"offset":0,"length":12,"style":"defaultTextShadow:none"},{"offset":0,"length":12,"style":"backgroundColor:unset"},{"offset":0,"length":12,"style":"textShadow:none"},{"offset":0,"length":12,"style":"textShadowX:0px"},{"offset":0,"length":12,"style":"fontStretch:normal"},{"offset":0,"length":12,"style":"fontType:regular"},{"offset":0,"length":12,"style":"color:#ffffff"},{"offset":0,"length":12,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":12,"style":"textShadowY:4px"},{"offset":0,"length":12,"style":"letterSpacing:0%"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"647gs","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}},{"key":"e1cpd","text":"Drag each tactic to rearrange. The purple letter of each will then spell our code word :)  ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":29,"length":52,"style":"color:#ffffff"},{"offset":90,"length":1,"style":"color:#ffffff"},{"offset":0,"length":91,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":91,"style":"textShadowY:4px"},{"offset":0,"length":91,"style":"letterSpacing:0%"},{"offset":10,"length":6,"style":"color:#66c4d9"},{"offset":0,"length":91,"style":"textHighlightEnable:false"},{"offset":0,"length":91,"style":"textTransform:none"},{"offset":0,"length":91,"style":"textShadowOpacity:none"},{"offset":0,"length":91,"style":"overridden:true"},{"offset":0,"length":91,"style":"textDecoration:none"},{"offset":0,"length":91,"style":"lineHeight:130%"},{"offset":0,"length":91,"style":"fontFamily:Georgia"},{"offset":0,"length":91,"style":"borderBottomStyle:none"},{"offset":81,"length":9,"style":"color:#fdfcf7"},{"offset":0,"length":91,"style":"textShadowEnable:false"},{"offset":0,"length":91,"style":"hlnk:"},{"offset":0,"length":91,"style":"fontWeight:normal"},{"offset":0,"length":91,"style":"textShadowBlur:8px"},{"offset":0,"length":91,"style":"desktop-fontSize:36"},{"offset":0,"length":91,"style":"textShadow:none"},{"offset":0,"length":91,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":91,"style":"hlnkt:wp"},{"offset":0,"length":91,"style":"textShadowColor:#19191929"},{"offset":0,"length":91,"style":"tablet-fontSize:20"},{"offset":0,"length":91,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":91,"style":"textOutlineEnable:false"},{"offset":0,"length":91,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":91,"style":"opacity:1"},{"offset":0,"length":91,"style":"fontStyle:normal"},{"offset":0,"length":10,"style":"color:#f3de8a"},{"offset":16,"length":13,"style":"color:#f3de8a"},{"offset":0,"length":91,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":91,"style":"hlnke:true"},{"offset":0,"length":91,"style":"defaultTextShadow:none"},{"offset":0,"length":91,"style":"backgroundColor:unset"},{"offset":0,"length":91,"style":"mobile-fontSize:18"},{"offset":0,"length":91,"style":"textShadowX:0px"},{"offset":0,"length":91,"style":"fontStretch:normal"},{"offset":0,"length":91,"style":"fontType:regular"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-body-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -97730,8 +97730,8 @@ vb:[-4,-4,2,2]
 Slide69208:{
 lb:'Question 8',
 id:69208,
-from:49311,
-to:49400,
+from:49851,
+to:49940,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -97787,7 +97787,7 @@ bookmarks:[]
 ,
 qs:'Slide69208q7',
 qnq:7,
-pa:49356,
+pa:49896,
 iph:{
 69247:{
 ts:'',
@@ -108003,8 +108003,8 @@ vb:[-1,-1,2,2]
 si68025:{
 name:'Block_Button_26',
 type:1268,
-from:49581,
-to:49670,
+from:50031,
+to:50120,
 rp:0,
 rpa:0,
 mdi:'si68025c',
@@ -108171,8 +108171,8 @@ vb:[-1,-1,1,1]
 si68033:{
 name:'Block_Button_Group_26',
 type:1268,
-from:49581,
-to:49670,
+from:50031,
+to:50120,
 rp:0,
 rpa:0,
 mdi:'si68033c',
@@ -108532,8 +108532,8 @@ vb:[-2,-2,-1,-1]
 si68055:{
 name:'Exit_Return',
 type:29,
-from:49581,
-to:49670,
+from:50031,
+to:50120,
 rp:0,
 rpa:0,
 mdi:'si68055c',
@@ -108561,7 +108561,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.runJavascript(\\"d2luZG93LnJldHVyblRvUXVhbHRyaWNzICYmIHdpbmRvdy5yZXR1cm5Ub1F1YWx0cmljcyAoKSA7\\",\\"_self\\");"]]}]}',
+oca:'{"scripts":[{"then":[["cp.runJavascript(\\"Ly8gTWluaW1hbCBjb2RlIGluIHRoZSBidXR0b246CnRyeSB7CiAgaWYgKHdpbmRvdy5yZWRpcmVjdFRvUXVhbHRyaWNzKSB7CiAgICB3aW5kb3cucmVkaXJlY3RUb1F1YWx0cmljcygpOwogIH0gZWxzZSB7CiAgICAvLyBMYXN0LXJlc29ydCBmYWxsYmFjayBpZiBvdXIgaGVscGVyIGRpZG4ndCBsb2FkCiAgICB2YXIgdSA9ICh0eXBlb2YgZ2V0UXVlcnlQYXJhbSA9PT0gJ2Z1bmN0aW9uJykgPyBnZXRRdWVyeVBhcmFtKCdyZXR1cm5VcmwnKSA6IG51bGw7CiAgICB3aW5kb3cubG9jYXRpb24uYXNzaWduKHUgfHwgJ2h0dHBzOi8vY29ybmVsbC5xdWFsdHJpY3MuY29tLycpOwogIH0KfSBjYXRjaCAoZSkgewogIGNvbnNvbGUuZXJyb3IoJ1JlZGlyZWN0IGVycm9yOicsIGUpOwogIGFsZXJ0KCdXZSBjb3VsZCBub3QgcmV0dXJuIHlvdSB0byB0aGUgc3VydmV5LiBQbGVhc2UgY29udGFjdCB0aGUgc3R1ZHkgdGVhbS4nKTsKfQ==\\",\\"_self\\");"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -109928,8 +109928,8 @@ vb:[-2,-2,-1,-1]
 Slide59239:{
 lb:'End',
 id:59239,
-from:49581,
-to:49670,
+from:50031,
+to:50120,
 iols:0,
 i360qs:false,
 sdu:3,
