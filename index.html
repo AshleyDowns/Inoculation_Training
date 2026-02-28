@@ -14,24 +14,32 @@
     <script src='assets/js/project.js' charset="utf-8"></script><script src='dist/main.chunk.js' charset="utf-8"></script><script src='dist/runtime-main.bundle.js' charset="utf-8"></script><script src='dist/vendors-main.chunk.js' charset="utf-8"></script>
   
 <!-- ADD THIS BLOCK ↓↓↓ -->
+
+<!-- === BEGIN: Return-to-Qualtrics wrapper === -->
 <script>
 (function () {
+  // --- CONFIG (your survey + thresholds) ---
   var QUALTRICS_RETURN_BASE = 'https://cornell.ca1.qualtrics.com/jfe/form/SV_1BRAmsPvFJ1G5ro';
-  var PASS_THRESHOLD = 70;      // adjust if needed
+  var PASS_THRESHOLD = 70;                 // change if needed
 
-  // Trigger settings — we’ll match by label and also by index as a fallback
-  var REDIRECT_SLIDE_LABEL = 'Redirect';  // case-insensitive match to your slide name
-  var REDIRECT_SLIDE_INDEX = 38;          // set to the actual Redirect slide number
+  // Match by label AND by index (either one will trigger)
+  var REDIRECT_SLIDE_LABEL = 'Redirect';   // case-insensitive name of your redirect slide
+  var REDIRECT_SLIDE_INDEX = 38;           // set to your actual redirect slide number
 
+  // --- Helpers ---
   function gv(name) {
     try { return window.cpAPIInterface.getVariableValue(name); }
-    catch (e) { return null; }
+    catch(e) { return null; }
+  }
+  function log() {
+    if (window.console && console.log) {
+      console.log.apply(console, ['[Return→Qualtrics]'].concat([].slice.call(arguments)));
+    }
   }
 
   function buildAndGo() {
-    // Read PID/condition that Qualtrics added to the training URL
     var usp = new URLSearchParams(location.search);
-    var PID = usp.get('PID') || usp.get('pid') || ''; // accept PID or pid
+    var PID = usp.get('PID') || usp.get('pid') || '';     // accept PID or pid
     var condition = usp.get('condition') || '';
 
     // Captivate 12 runtime quiz variables
@@ -40,7 +48,6 @@
     var total        = Number(gv('cpQuizInfoTotalQuestions'));   // integer
     var passed       = (!isNaN(scorePercent) && scorePercent >= PASS_THRESHOLD);
 
-    // Build query string
     var qs = [];
     if (PID)       qs.push('PID=' + encodeURIComponent(PID));
     if (condition) qs.push('condition=' + encodeURIComponent(condition));
@@ -50,46 +57,77 @@
     if (!isNaN(total))   qs.push('total=' + total);
 
     var url = QUALTRICS_RETURN_BASE + '?' + qs.join('&');
-    console.log('[Return to Qualtrics]', url);
+    log('Navigating to:', url);
     location.href = url;
   }
 
-  function onSlideEnter() {
+  // Decide if current slide is the Redirect slide
+  function isRedirectSlide() {
     var label = gv('cpInfoCurrentSlideLabel');
-    var index = Number(gv('cpInfoCurrentSlideIndex')); // note: some themes are 0-based
+    var index = Number(gv('cpInfoCurrentSlideIndex')); // some themes are 0- or 1-based; we normalize below
 
-    // Normalize common off-by-one cases:
+    // Normalize common off-by-one (if your theme is 0-based)
     if (!isNaN(index) && index === (REDIRECT_SLIDE_INDEX - 1)) {
       index = REDIRECT_SLIDE_INDEX;
     }
 
-    var isByLabel =
+    var byLabel =
       (REDIRECT_SLIDE_LABEL &&
        label &&
        String(label).toLowerCase() === REDIRECT_SLIDE_LABEL.toLowerCase());
 
-    var isByIndex =
+    var byIndex =
       (REDIRECT_SLIDE_INDEX != null &&
        !isNaN(index) &&
        index === Number(REDIRECT_SLIDE_INDEX));
 
-    if (isByLabel || isByIndex) {
-      // Let the slide finish entering, then navigate
-      setTimeout(buildAndGo, 150);
+    log('Slide check → label:', label, 'index:', index, 'byLabel?', byLabel, 'byIndex?', byIndex);
+    return byLabel || byIndex;
+  }
+
+  // Event handler path (preferred)
+  function onSlideEnter() {
+    if (isRedirectSlide()) {
+      // Allow transition & variables to settle
+      setTimeout(buildAndGo, 250);
     }
   }
 
-  function hookWhenReady() {
-    if (window.cpAPIInterface && window.cpAPIInterface.addEventListener) {
-      window.cpAPIInterface.addEventListener('CPAPI_SLIDEENTER', onSlideEnter);
-    } else {
-      setTimeout(hookWhenReady, 100);
+  // Polling fallback (some C12 themes don’t dispatch CPAPI_SLIDEENTER reliably)
+  var lastSeen = { label: null, index: null };
+  function poll() {
+    var label = gv('cpInfoCurrentSlideLabel');
+    var index = Number(gv('cpInfoCurrentSlideIndex'));
+    if (label !== lastSeen.label || index !== lastSeen.index) {
+      lastSeen = { label: label, index: index };
+      log('Slide change detected (poll) →', label, index);
+      if (isRedirectSlide()) {
+        setTimeout(buildAndGo, 250);
+      }
     }
   }
 
-  document.addEventListener('DOMContentLoaded', hookWhenReady);
+  function hook() {
+    try {
+      if (window.cpAPIInterface && window.cpAPIInterface.addEventListener) {
+        log('Hooking CPAPI_SLIDEENTER');
+        window.cpAPIInterface.addEventListener('CPAPI_SLIDEENTER', onSlideEnter);
+      } else {
+        throw new Error('cpAPIInterface not ready');
+      }
+    } catch (e) {
+      // Keep trying until runtime is ready
+      setTimeout(hook, 100);
+    }
+
+    // Always start a polling fallback in parallel (fires every 300ms)
+    setInterval(poll, 300);
+  }
+
+  document.addEventListener('DOMContentLoaded', hook);
 })();
 </script>
+<!-- === END: Return-to-Qualtrics wrapper === -->
 <!-- END ADDED BLOCK -->
   </body>
 </html>
