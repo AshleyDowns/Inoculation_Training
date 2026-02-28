@@ -63,8 +63,8 @@
     }
 
     // 4) Forward ONLY pid and condition if present in training URL
-    var pid = getQueryParam('pid');
-    if (pid) finalUrl.searchParams.set('pid', pid);
+    var PID = getQueryParam('PID');
+    if (PID) finalUrl.searchParams.set('PID', PID);
 
     var condition = getQueryParam('condition');
     if (condition) finalUrl.searchParams.set('condition', condition);
