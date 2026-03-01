@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:721,
-to:810,
+from:991,
+to:1080,
 iols:0,
 i360qs:false,
 sdu:3,
