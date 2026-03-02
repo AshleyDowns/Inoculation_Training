@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:33551,
-to:33640,
+from:1,
+to:90,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -16498,11 +16498,11 @@ iid:[65187]
 ,
 qs:'',
 iph:{
-65176:{
+65183:{
 ts:''
 }
 ,
-65183:{
+65176:{
 ts:''
 }
 ,
@@ -30394,11 +30394,11 @@ iid:[65557]
 ,
 qs:'',
 iph:{
-65546:{
+65553:{
 ts:''
 }
 ,
-65553:{
+65546:{
 ts:''
 }
 ,
@@ -57840,11 +57840,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-67506:{
+67513:{
 ts:''
 }
 ,
-67513:{
+67506:{
 ts:''
 }
 
@@ -67986,11 +67986,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-67676:{
+67683:{
 ts:''
 }
 ,
-67683:{
+67676:{
 ts:''
 }
 
@@ -83329,8 +83329,8 @@ visible:'1'
 si61766:{
 name:'',
 type:1268,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61766c',
@@ -83505,8 +83505,8 @@ vb:[-1,-1,1,1]
 si61686:{
 name:'$container-match-the-column-card_name_3',
 type:1268,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61686c',
@@ -83746,8 +83746,8 @@ vb:[-1,-1,1,1]
 si61512:{
 name:'Text_1152',
 type:1250,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61512c',
@@ -83895,8 +83895,8 @@ vb:[-2,-2,150,30]
 si61519:{
 name:'Text_1153',
 type:1250,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61519c',
@@ -84047,8 +84047,8 @@ vb:[-1,-1,2,2]
 si61535:{
 name:'Button_1170',
 type:29,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61535c',
@@ -84201,8 +84201,8 @@ vb:[-2,-2,-1,-1]
 si61551:{
 name:'Button_1171',
 type:29,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61551c',
@@ -84355,8 +84355,8 @@ vb:[-2,-2,-1,-1]
 si61564:{
 name:'Button_1172',
 type:29,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61564c',
@@ -84509,8 +84509,8 @@ vb:[-2,-2,-1,-1]
 si61577:{
 name:'Button_1173',
 type:29,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61577c',
@@ -84663,8 +84663,8 @@ vb:[-2,-2,-1,-1]
 si61584:{
 name:'Button_1174',
 type:29,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61584c',
@@ -84817,8 +84817,8 @@ vb:[-2,-2,-1,-1]
 si61597:{
 name:'Button_1175',
 type:29,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61597c',
@@ -84971,8 +84971,8 @@ vb:[-2,-2,-1,-1]
 si61610:{
 name:'Button_1176',
 type:29,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61610c',
@@ -85125,8 +85125,8 @@ vb:[-2,-2,-1,-1]
 si61617:{
 name:'Text_1154',
 type:1250,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61617c',
@@ -85277,8 +85277,8 @@ vb:[-1,-1,2,2]
 si61624:{
 name:'Text_1155',
 type:1250,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61624c',
@@ -85429,8 +85429,8 @@ vb:[-1,-1,2,2]
 si61631:{
 name:'Text_1156',
 type:1250,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61631c',
@@ -85581,8 +85581,8 @@ vb:[-1,-1,2,2]
 si61638:{
 name:'DropDown_15',
 type:10189,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61638c',
@@ -85736,8 +85736,8 @@ vb:[-2,-2,-1,-1]
 si61645:{
 name:'DropDown_16',
 type:10189,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61645c',
@@ -85891,8 +85891,8 @@ vb:[-2,-2,-1,-1]
 si61652:{
 name:'DropDown_17',
 type:10189,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61652c',
@@ -86046,8 +86046,8 @@ vb:[-2,-2,-1,-1]
 si61659:{
 name:'Text_1157',
 type:1250,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61659c',
@@ -86198,8 +86198,8 @@ vb:[-1,-1,2,2]
 si61666:{
 name:'Text_1158',
 type:1250,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61666c',
@@ -86350,8 +86350,8 @@ vb:[-1,-1,2,2]
 si61673:{
 name:'DropDown_18',
 type:10189,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61673c',
@@ -86505,8 +86505,8 @@ vb:[-2,-2,-1,-1]
 si61680:{
 name:'DropDown_19',
 type:10189,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61680c',
@@ -86660,8 +86660,8 @@ vb:[-2,-2,-1,-1]
 si61694:{
 name:'Caption_42',
 type:612,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61694c',
@@ -86892,8 +86892,8 @@ vb:[-4,-4,2,2]
 si61702:{
 name:'Caption_42',
 type:612,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61702c',
@@ -87124,8 +87124,8 @@ vb:[-4,-4,2,2]
 si61710:{
 name:'Caption_42',
 type:612,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61710c',
@@ -87356,8 +87356,8 @@ vb:[-4,-4,2,2]
 si61723:{
 name:'Caption_50',
 type:612,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61723c',
@@ -87618,8 +87618,8 @@ vb:[-4,-4,2,2]
 si68765:{
 name:'Caption_50',
 type:612,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si68765c',
@@ -87850,8 +87850,8 @@ vb:[-4,-4,2,2]
 si68774:{
 name:'Caption_50',
 type:612,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si68774c',
@@ -88082,8 +88082,8 @@ vb:[-4,-4,2,2]
 si61731:{
 name:'Caption_43',
 type:612,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61731c',
@@ -88314,8 +88314,8 @@ vb:[-4,-4,2,2]
 si61739:{
 name:'Caption_43',
 type:612,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61739c',
@@ -88546,8 +88546,8 @@ vb:[-4,-4,2,2]
 si61747:{
 name:'Caption_43',
 type:612,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61747c',
@@ -88778,8 +88778,8 @@ vb:[-4,-4,2,2]
 si61760:{
 name:'Caption_51',
 type:612,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 rp:0,
 rpa:0,
 mdi:'si61760c',
@@ -89028,8 +89028,8 @@ vb:[-4,-4,2,2]
 Slide61807:{
 lb:'Behaviors_Question 7',
 id:61807,
-from:33101,
-to:33190,
+from:28711,
+to:28800,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -89083,9 +89083,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide61807q7',
-qnq:7,
-pa:33144,
+qs:'Slide61807q6',
+qnq:6,
+pa:28754,
 iph:{
 61788:{
 ts:'',
@@ -89122,7 +89122,7 @@ uid:61807,
 dn:'Slide61807',
 visible:'1'
 },
-Slide61807q7:{
+Slide61807q6:{
 noa:3,
 qt:'',
 it:true,
@@ -89133,7 +89133,7 @@ sat:true,
 qst:0,
 ish:false,
 ips:false,
-qnq:7,
+qnq:6,
 sn:'Slide61807',
 oid:'Quiz_2025125135445',
 iid:'61500',
@@ -89171,8 +89171,8 @@ itemlb:[]
 si72770:{
 name:'Scenario-Block_106',
 type:1268,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72770c',
@@ -89343,8 +89343,8 @@ vb:[-1,-1,1,1]
 si72719:{
 name:'character-image_107',
 type:1268,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72719c',
@@ -89511,8 +89511,8 @@ vb:[-1,-1,1,1]
 si72713:{
 name:'AdobeStock_1600745568_13',
 type:15,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72713c',
@@ -89694,8 +89694,8 @@ vb:[-1,-1,4097,4097]
 si72764:{
 name:'Character_Group_107',
 type:1268,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72764c',
@@ -89863,8 +89863,8 @@ vb:[-1,-1,1,1]
 si72729:{
 name:'Text_1228',
 type:1250,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72729c',
@@ -90013,8 +90013,8 @@ vb:[-1,-1,2,2]
 si72935:{
 name:'Block_Button_28',
 type:1268,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72935c',
@@ -90181,8 +90181,8 @@ vb:[-1,-1,1,1]
 si72929:{
 name:'Block_Button_Group_28',
 type:1268,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72929c',
@@ -90386,8 +90386,8 @@ vb:[-1,-1,1,1]
 si72794:{
 name:'Button_1436',
 type:29,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72794c',
@@ -90542,8 +90542,8 @@ vb:[-2,-2,-1,-1]
 si72811:{
 name:'Button_1437',
 type:29,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72811c',
@@ -90698,8 +90698,8 @@ vb:[-2,-2,-1,-1]
 si72825:{
 name:'Button_1438',
 type:29,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72825c',
@@ -90853,8 +90853,8 @@ vb:[-2,-2,-1,-1]
 si72839:{
 name:'Button_1439',
 type:29,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72839c',
@@ -91008,8 +91008,8 @@ vb:[-2,-2,-1,-1]
 si72853:{
 name:'Button_1440',
 type:29,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72853c',
@@ -91163,8 +91163,8 @@ vb:[-2,-2,-1,-1]
 si72867:{
 name:'Button_1441',
 type:29,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72867c',
@@ -91318,8 +91318,8 @@ vb:[-2,-2,-1,-1]
 si72881:{
 name:'Button_1442',
 type:29,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72881c',
@@ -91473,8 +91473,8 @@ vb:[-2,-2,-1,-1]
 si72895:{
 name:'Button_1443',
 type:29,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72895c',
@@ -91628,8 +91628,8 @@ vb:[-2,-2,-1,-1]
 si72909:{
 name:'Button_1444',
 type:29,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72909c',
@@ -91783,8 +91783,8 @@ vb:[-2,-2,-1,-1]
 si72923:{
 name:'Button_1445',
 type:29,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 rp:0,
 rpa:0,
 mdi:'si72923c',
@@ -91938,8 +91938,8 @@ vb:[-2,-2,-1,-1]
 Slide72957:{
 lb:'Behaviors_Answer 7',
 id:72957,
-from:33371,
-to:33460,
+from:28801,
+to:28890,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -91995,11 +91995,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-72795:{
+72778:{
 ts:''
 }
 ,
-72778:{
+72795:{
 ts:''
 }
 
@@ -92031,8 +92031,8 @@ visible:'1'
 si73709:{
 name:'Block_Button_29',
 type:1268,
-from:32921,
-to:33010,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73709c',
@@ -92199,8 +92199,8 @@ vb:[-1,-1,1,1]
 si73717:{
 name:'Block_Button_Group_29',
 type:1268,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73717c',
@@ -92404,8 +92404,8 @@ vb:[-1,-1,1,1]
 si73725:{
 name:'Button_1446',
 type:29,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73725c',
@@ -92560,8 +92560,8 @@ vb:[-2,-2,-1,-1]
 si73739:{
 name:'Button_1447',
 type:29,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73739c',
@@ -92716,8 +92716,8 @@ vb:[-2,-2,-1,-1]
 si73753:{
 name:'Button_1448',
 type:29,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73753c',
@@ -92871,8 +92871,8 @@ vb:[-2,-2,-1,-1]
 si73767:{
 name:'Button_1449',
 type:29,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73767c',
@@ -93026,8 +93026,8 @@ vb:[-2,-2,-1,-1]
 si73781:{
 name:'Button_1450',
 type:29,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73781c',
@@ -93181,8 +93181,8 @@ vb:[-2,-2,-1,-1]
 si73795:{
 name:'Button_1451',
 type:29,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73795c',
@@ -93336,8 +93336,8 @@ vb:[-2,-2,-1,-1]
 si73809:{
 name:'Button_1452',
 type:29,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73809c',
@@ -93491,8 +93491,8 @@ vb:[-2,-2,-1,-1]
 si73823:{
 name:'Button_1453',
 type:29,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73823c',
@@ -93646,8 +93646,8 @@ vb:[-2,-2,-1,-1]
 si73837:{
 name:'Button_1454',
 type:29,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73837c',
@@ -93801,8 +93801,8 @@ vb:[-2,-2,-1,-1]
 si73851:{
 name:'Button_1455',
 type:29,
-from:32561,
-to:32650,
+from:28891,
+to:28980,
 rp:0,
 rpa:0,
 mdi:'si73851c',
@@ -93956,8 +93956,8 @@ vb:[-2,-2,-1,-1]
 Slide73687:{
 lb:'HARMS',
 id:73687,
-from:32921,
-to:33010,
+from:28891,
+to:28980,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -94022,11 +94022,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-73877:{
+73884:{
 ts:''
 }
 ,
-73884:{
+73877:{
 ts:''
 }
 
@@ -102389,11 +102389,11 @@ iid:[71362]
 ,
 qs:'',
 iph:{
-71174:{
+71191:{
 ts:''
 }
 ,
-71191:{
+71174:{
 ts:''
 }
 ,
@@ -109383,8 +109383,8 @@ visible:'1'
 si59261:{
 name:'Paragraph_37',
 type:1268,
-from:33461,
-to:33550,
+from:32111,
+to:32200,
 rp:0,
 rpa:0,
 mdi:'si59261c',
@@ -109551,8 +109551,8 @@ vb:[-1,-1,1,1]
 si59269:{
 name:'Paragraph_Group_31',
 type:1268,
-from:33461,
-to:33550,
+from:32111,
+to:32200,
 rp:0,
 rpa:0,
 mdi:'si59269c',
@@ -109724,8 +109724,8 @@ vb:[-1,-1,1,1]
 si59277:{
 name:'Text_1117',
 type:1250,
-from:33461,
-to:33550,
+from:32111,
+to:32200,
 rp:0,
 rpa:0,
 mdi:'si59277c',
@@ -109755,7 +109755,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"f1073","text":"You just spent 15 minutes learning actionable knowledge.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":56,"style":"textTransform:none"},{"offset":0,"length":56,"style":"textShadowOpacity:none"},{"offset":0,"length":56,"style":"overridden:true"},{"offset":0,"length":56,"style":"textDecoration:none"},{"offset":0,"length":56,"style":"desktop-fontSize:96"},{"offset":0,"length":56,"style":"fontFamily:Georgia"},{"offset":0,"length":56,"style":"mobile-fontSize:80"},{"offset":0,"length":56,"style":"borderBottomStyle:none"},{"offset":0,"length":56,"style":"color:#F5F5F4"},{"offset":0,"length":56,"style":"textShadowEnable:false"},{"offset":0,"length":56,"style":"hlnk:"},{"offset":0,"length":56,"style":"fontWeight:normal"},{"offset":0,"length":56,"style":"textShadowBlur:8px"},{"offset":0,"length":56,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":56,"style":"textShadowColor:#19191929"},{"offset":0,"length":56,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":56,"style":"textShadowX:0px"},{"offset":0,"length":56,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":56,"style":"hlnkt:wp"},{"offset":0,"length":56,"style":"fontStyle:normal"},{"offset":0,"length":56,"style":"textOutlineEnable:false"},{"offset":0,"length":56,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":56,"style":"opacity:1"},{"offset":0,"length":56,"style":"hlnke:true"},{"offset":0,"length":56,"style":"defaultTextShadow:none"},{"offset":0,"length":56,"style":"backgroundColor:unset"},{"offset":0,"length":56,"style":"letterSpacing:-1%"},{"offset":0,"length":56,"style":"textShadow:none"},{"offset":0,"length":56,"style":"fontStretch:normal"},{"offset":0,"length":56,"style":"fontType:regular"},{"offset":0,"length":56,"style":"lineHeight:107%"},{"offset":0,"length":56,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":56,"style":"tablet-fontSize:100"},{"offset":0,"length":56,"style":"textShadowY:4px"},{"offset":0,"length":56,"style":"textHighlightEnable:false"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"f1073","text":"You just spent 15 minutes learning actionable insight.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":54,"style":"hlnkt:wp"},{"offset":0,"length":54,"style":"fontStyle:normal"},{"offset":0,"length":54,"style":"textOutlineEnable:false"},{"offset":0,"length":54,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":54,"style":"opacity:1"},{"offset":0,"length":54,"style":"hlnke:true"},{"offset":0,"length":54,"style":"defaultTextShadow:none"},{"offset":0,"length":54,"style":"backgroundColor:unset"},{"offset":0,"length":54,"style":"letterSpacing:-1%"},{"offset":0,"length":54,"style":"textShadow:none"},{"offset":0,"length":54,"style":"fontStretch:normal"},{"offset":0,"length":54,"style":"fontType:regular"},{"offset":0,"length":54,"style":"lineHeight:107%"},{"offset":0,"length":54,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":54,"style":"tablet-fontSize:100"},{"offset":0,"length":54,"style":"textShadowY:4px"},{"offset":0,"length":54,"style":"textHighlightEnable:false"},{"offset":0,"length":54,"style":"textTransform:none"},{"offset":0,"length":54,"style":"textShadowOpacity:none"},{"offset":0,"length":54,"style":"overridden:true"},{"offset":0,"length":54,"style":"textDecoration:none"},{"offset":0,"length":54,"style":"desktop-fontSize:96"},{"offset":0,"length":54,"style":"fontFamily:Georgia"},{"offset":0,"length":54,"style":"mobile-fontSize:80"},{"offset":0,"length":54,"style":"borderBottomStyle:none"},{"offset":0,"length":54,"style":"color:#F5F5F4"},{"offset":0,"length":54,"style":"textShadowEnable:false"},{"offset":0,"length":54,"style":"hlnk:"},{"offset":0,"length":54,"style":"fontWeight:normal"},{"offset":0,"length":54,"style":"textShadowBlur:8px"},{"offset":0,"length":54,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":54,"style":"textShadowColor:#19191929"},{"offset":0,"length":54,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":54,"style":"textShadowX:0px"},{"offset":0,"length":54,"style":"defaultTextStrokeColor:#191919"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-heading-1","listSize":"100%"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -109877,8 +109877,8 @@ vb:[-1,-1,2,2]
 si59285:{
 name:'Text_1118',
 type:1250,
-from:33461,
-to:33550,
+from:32111,
+to:32200,
 rp:0,
 rpa:0,
 mdi:'si59285c',
@@ -109908,7 +109908,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"e6r7m","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"presetId":"text-subheading-3","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true"}},{"key":"24mpd","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}},{"key":"cdi4u","text":"There is power in remembering it. Sharing it. Using it.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":55,"style":"fontWeight:normal"},{"offset":0,"length":55,"style":"textShadowBlur:8px"},{"offset":0,"length":55,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":55,"style":"textShadowColor:#19191929"},{"offset":0,"length":55,"style":"textShadow:none"},{"offset":0,"length":55,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":55,"style":"hlnkt:wp"},{"offset":0,"length":55,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":55,"style":"textOutlineEnable:false"},{"offset":0,"length":55,"style":"fontStyle:normal"},{"offset":0,"length":55,"style":"opacity:1"},{"offset":0,"length":55,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":55,"style":"tablet-fontSize:22"},{"offset":18,"length":14,"style":"color:#f3de8a"},{"offset":34,"length":10,"style":"color:#f3de8a"},{"offset":46,"length":8,"style":"color:#f3de8a"},{"offset":0,"length":55,"style":"hlnke:true"},{"offset":0,"length":55,"style":"defaultTextShadow:none"},{"offset":0,"length":55,"style":"backgroundColor:unset"},{"offset":0,"length":55,"style":"mobile-fontSize:18"},{"offset":0,"length":55,"style":"textShadowX:0px"},{"offset":0,"length":55,"style":"fontStretch:normal"},{"offset":0,"length":55,"style":"fontType:regular"},{"offset":0,"length":55,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":55,"style":"textShadowY:4px"},{"offset":0,"length":55,"style":"lineHeight:115%"},{"offset":0,"length":55,"style":"letterSpacing:0%"},{"offset":0,"length":55,"style":"textHighlightEnable:false"},{"offset":0,"length":55,"style":"textTransform:none"},{"offset":0,"length":55,"style":"textShadowOpacity:none"},{"offset":0,"length":55,"style":"overridden:true"},{"offset":0,"length":55,"style":"textDecoration:none"},{"offset":0,"length":55,"style":"desktop-fontSize:30"},{"offset":0,"length":55,"style":"fontFamily:Georgia"},{"offset":0,"length":55,"style":"borderBottomStyle:none"},{"offset":0,"length":18,"style":"color:#F5F5F4"},{"offset":32,"length":2,"style":"color:#F5F5F4"},{"offset":44,"length":2,"style":"color:#F5F5F4"},{"offset":54,"length":1,"style":"color:#F5F5F4"},{"offset":0,"length":55,"style":"textShadowEnable:false"},{"offset":0,"length":55,"style":"hlnk:"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-3","listSize":"100%"}},{"key":"84snr","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}},{"key":"1barn","text":"You will start by revisiting some of the prior surveys we asked you to complete.   ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":83,"style":"overridden:true"},{"offset":0,"length":83,"style":"hlnkt:wp"},{"offset":0,"length":83,"style":"textOutlineEnable:false"},{"offset":0,"length":83,"style":"opacity:1"},{"offset":0,"length":83,"style":"hlnke:true"},{"offset":0,"length":83,"style":"backgroundColor:unset"},{"offset":0,"length":83,"style":"fontType:regular"},{"offset":0,"length":83,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":83,"style":"textHighlightEnable:false"},{"offset":0,"length":83,"style":"desktop-fontSize:30"},{"offset":0,"length":83,"style":"fontFamily:Georgia"},{"offset":0,"length":83,"style":"textShadowEnable:false"},{"offset":0,"length":83,"style":"hlnk:"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"e6r7m","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"presetId":"text-subheading-3","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true"}},{"key":"24mpd","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}},{"key":"cdi4u","text":"There is power in remembering HARMS. Sharing it. Reflecting on it.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":66,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":66,"style":"textShadowColor:#19191929"},{"offset":0,"length":66,"style":"textShadow:none"},{"offset":0,"length":66,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":66,"style":"hlnkt:wp"},{"offset":0,"length":66,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":66,"style":"textOutlineEnable:false"},{"offset":0,"length":66,"style":"fontStyle:normal"},{"offset":0,"length":66,"style":"opacity:1"},{"offset":0,"length":66,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":66,"style":"tablet-fontSize:22"},{"offset":18,"length":17,"style":"color:#f3de8a"},{"offset":37,"length":10,"style":"color:#f3de8a"},{"offset":49,"length":16,"style":"color:#f3de8a"},{"offset":0,"length":66,"style":"hlnke:true"},{"offset":0,"length":66,"style":"defaultTextShadow:none"},{"offset":0,"length":66,"style":"backgroundColor:unset"},{"offset":0,"length":66,"style":"mobile-fontSize:18"},{"offset":0,"length":66,"style":"textShadowX:0px"},{"offset":0,"length":66,"style":"fontStretch:normal"},{"offset":0,"length":66,"style":"fontType:regular"},{"offset":0,"length":66,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":66,"style":"textShadowY:4px"},{"offset":0,"length":66,"style":"lineHeight:115%"},{"offset":0,"length":66,"style":"letterSpacing:0%"},{"offset":0,"length":66,"style":"textHighlightEnable:false"},{"offset":0,"length":66,"style":"textTransform:none"},{"offset":0,"length":66,"style":"textShadowOpacity:none"},{"offset":0,"length":66,"style":"overridden:true"},{"offset":0,"length":66,"style":"textDecoration:none"},{"offset":0,"length":66,"style":"desktop-fontSize:30"},{"offset":0,"length":66,"style":"fontFamily:Georgia"},{"offset":0,"length":66,"style":"borderBottomStyle:none"},{"offset":0,"length":18,"style":"color:#F5F5F4"},{"offset":35,"length":2,"style":"color:#F5F5F4"},{"offset":47,"length":2,"style":"color:#F5F5F4"},{"offset":65,"length":1,"style":"color:#F5F5F4"},{"offset":0,"length":66,"style":"textShadowEnable:false"},{"offset":0,"length":66,"style":"hlnk:"},{"offset":0,"length":66,"style":"fontWeight:normal"},{"offset":0,"length":66,"style":"textShadowBlur:8px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-3","listSize":"100%"}},{"key":"84snr","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}},{"key":"1barn","text":"You will start by revisiting some of the prior surveys we asked you to complete.   ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":83,"style":"overridden:true"},{"offset":0,"length":83,"style":"hlnkt:wp"},{"offset":0,"length":83,"style":"textOutlineEnable:false"},{"offset":0,"length":83,"style":"opacity:1"},{"offset":0,"length":83,"style":"hlnke:true"},{"offset":0,"length":83,"style":"backgroundColor:unset"},{"offset":0,"length":83,"style":"fontType:regular"},{"offset":0,"length":83,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":83,"style":"textHighlightEnable:false"},{"offset":0,"length":83,"style":"desktop-fontSize:30"},{"offset":0,"length":83,"style":"fontFamily:Georgia"},{"offset":0,"length":83,"style":"textShadowEnable:false"},{"offset":0,"length":83,"style":"hlnk:"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -110030,8 +110030,8 @@ vb:[-1,-1,2,2]
 si68025:{
 name:'Block_Button_26',
 type:1268,
-from:33641,
-to:33730,
+from:32111,
+to:32200,
 rp:0,
 rpa:0,
 mdi:'si68025c',
@@ -110198,8 +110198,8 @@ vb:[-1,-1,1,1]
 si68033:{
 name:'Block_Button_Group_26',
 type:1268,
-from:33641,
-to:33730,
+from:32111,
+to:32200,
 rp:0,
 rpa:0,
 mdi:'si68033c',
@@ -110559,8 +110559,8 @@ vb:[-2,-2,-1,-1]
 si68055:{
 name:'Exit_Return',
 type:29,
-from:33641,
-to:33730,
+from:32111,
+to:32200,
 rp:0,
 rpa:0,
 mdi:'si68055c',
@@ -110588,7 +110588,7 @@ efph:{
 }
 ,
 eflh:[],
-oca:'{"scripts":[{"then":[["cp.runJavascript(\\"KGZ1bmN0aW9uICgpIHsgdmFyIHBhcmFtcyA9IG5ldyBVUkxTZWFyY2hQYXJhbXMgKHdpbmRvdy5sb2NhdGlvbi5zZWFyY2gpIDsgdmFyIHBpZCA9IHBhcmFtcy5nZXQoJ1BJRCcpICB8fCAnJzsgdmFyIGNvbmRpdGlvbiA9IHBhcmFtcy5nZXQoJ2NvbmRpdGlvbicpIHx8ICcnOyB2YXIgZW1haWwgPSBwYXJhbXMuZ2V0KCdwYXJ0aWNpcGFudF9lbWFpbCcpIHx8ICcnOyB2YXIgcmV0dXJuVVJMID0gcGFyYW1zLmdldCgncmV0dXJuJykgfHwgJyc7IHZhciBxdWl6U2NvcmUgPSB3aW5kb3cuY3BBUElJbnRlcmZhY2UuZ2V0VmFyaWFibGVWYWx1ZSgnY3BRdWl6SW5mb1BlcmNlbnRhZ2UnKTsgaWYgKCFyZXR1cm5VUkwpIHsgcmV0dXJuOyB9ICB2YXIgdSA9IG5ldyBVUkwocmV0dXJuVVJMKTsgdS5zZWFyY2hQYXJhbXMuc2V0KCdQSUQnLCBwaWQpOyB1LnNlYXJjaFBhcmFtcy5zZXQoJ2NvbmRpdGlvbicsIGNvbmRpdGlvbik7IHUuc2VhcmNoUGFyYW1zLnNldCgncGFydGljaXBhbnRfZW1haWwnLCBlbWFpbCk7IHUuc2VhcmNoUGFyYW1zLnNldCgncXVpelNjb3JlJywgU3RyaW5nKHF1aXpTY29yZSkpOyB3aW5kb3cubG9jYXRpb24uaHJlZiA9IHUudG9TdHJpbmcoKTsKfSkoKTs=\\",\\"_self\\");"]]}]}',
+oca:'{"scripts":[{"then":[["cp.runJavascript(\\"KGZ1bmN0aW9uICgpIHsKoCBmdW5jdGlvbiBpc1F1YWx0cmljc0Zvcm0odXJsU3RyKSB7CqCgoCB0cnkgewqgoKCgoCB2YXIgdSA9IG5ldyBVUkwodXJsU3RyKTsKoKCgoKAgcmV0dXJuIC9xdWFsdHJpY3NcLmNvbS9pLnRlc3QodS5ob3N0KSAmJiAvXC9qZmVcL2Zvcm1cLy9pLnRlc3QodS5wYXRobmFtZSk7CqCgoCB9IGNhdGNoIChlKSB7IHJldHVybiBmYWxzZTsgfQqgIH0KoCBmdW5jdGlvbiBjbGVhbih2KSB7IHJldHVybiAodiA9PSBudWxsID8gIiIgOiBTdHJpbmcodikpLnRyaW0oKTsgfQoKoCB2YXIgcGFyYW1zoKCgoKAgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKHdpbmRvdy5sb2NhdGlvbi5zZWFyY2gpOwqgIHZhciBwaWSgoKCgoKCgoCA9IGNsZWFuKHBhcmFtcy5nZXQoIlBJRCIpKTsKoCB2YXIgY29uZGl0aW9uoKAgPSBjbGVhbihwYXJhbXMuZ2V0KCJjb25kaXRpb24iKSk7CqAgdmFyIGVtYWlsoKCgoKCgID0gY2xlYW4ocGFyYW1zLmdldCgicGFydGljaXBhbnRfZW1haWwiKSk7CqAgdmFyIHJldHVyblBhcmFtID0gY2xlYW4ocGFyYW1zLmdldCgicmV0dXJuIikpOwqgIHZhciBkYXmgoKCgoKCgoCA9IGNsZWFuKHBhcmFtcy5nZXQoIkRheSIpKTsKCqAgdmFyIFNUQUdFMTVfVVJMID0gImh0dHBzOi8vY29ybmVsbC5jYTEucXVhbHRyaWNzLmNvbS9qZmUvZm9ybS9TVl9iUGJRWEdDZU5HTlJyclUiOwqgIHZhciBiYXNlRGVzdKCgoCA9IGlzUXVhbHRyaWNzRm9ybShyZXR1cm5QYXJhbSkgPyByZXR1cm5QYXJhbSA6IFNUQUdFMTVfVVJMOwoKoCB2YXIgcXVpelNjb3JlID0gIiI7CqAgdHJ5IHsKoKCgIGlmICh3aW5kb3cuY3BBUElJbnRlcmZhY2UgJiYgdHlwZW9mIHdpbmRvdy5jcEFQSUludGVyZmFjZS5nZXRWYXJpYWJsZVZhbHVlID09PSAiZnVuY3Rpb24iKSB7CqCgoKCgIHZhciBwY3QgPSB3aW5kb3cuY3BBUElJbnRlcmZhY2UuZ2V0VmFyaWFibGVWYWx1ZSgiY3BRdWl6SW5mb1BlcmNlbnRhZ2UiKTsKoKCgoKAgcXVpelNjb3JlID0gaXNGaW5pdGUoK3BjdCkgPyBTdHJpbmcoTWF0aC5yb3VuZCgrcGN0KSkgOiAiIjsKoKCgIH0KoCB9IGNhdGNoIChlKSB7fQoKoCB2YXIgZGVzdCA9IG5ldyBVUkwoYmFzZURlc3QpOwqgIGlmIChwaWQpoKCgoKCgIGRlc3Quc2VhcmNoUGFyYW1zLnNldCgiUElEIiwgcGlkKTsKoCBpZiAoY29uZGl0aW9uKSBkZXN0LnNlYXJjaFBhcmFtcy5zZXQoImNvbmRpdGlvbiIsIGNvbmRpdGlvbik7CqAgaWYgKGVtYWlsKaCgoKAgZGVzdC5zZWFyY2hQYXJhbXMuc2V0KCJwYXJ0aWNpcGFudF9lbWFpbCIsIGVtYWlsKTsKoCBpZiAocXVpelNjb3JlKSBkZXN0LnNlYXJjaFBhcmFtcy5zZXQoInF1aXpTY29yZSIsIHF1aXpTY29yZSk7CqAgaWYgKGRheSmgoKCgoKAgZGVzdC5zZWFyY2hQYXJhbXMuc2V0KCJEYXkiLCBkYXkpOwqgIGRlc3Quc2VhcmNoUGFyYW1zLnNldCgiX3RzIiwgU3RyaW5nKERhdGUubm93KCkpKTsKCqAgd2luZG93LmxvY2F0aW9uLnJlcGxhY2UoZGVzdC50b1N0cmluZygpKTsKfSkoKTs=\\",\\"_self\\");"]]}]}',
 iflbx:false,
 ipflbx:true,
 si:[]
@@ -111955,8 +111955,8 @@ vb:[-2,-2,-1,-1]
 Slide59239:{
 lb:'End',
 id:59239,
-from:33641,
-to:33730,
+from:32111,
+to:32200,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -112664,7 +112664,7 @@ prjBgColor:'#ffffff',
 pkt:0,
 htmlBgColor:'#f5f4f1',
 shc:false,
-pN:'Inoculation v17- 2-28-26.cpt'
+pN:'Inoculation v18- 3-2-26.cpt'
 },
 projectThemeData:{
 customisations:'{"user_renames":{}}',
@@ -112699,7 +112699,7 @@ vim:0,
 slides:'Slide24910,Slide45138,Slide60010,Slide68623,Slide68373,Slide68510,Slide63314,Slide68897,Slide60547,Slide63650,Slide63503,Slide53988,Slide64823,Slide60616,Slide63848,Slide46813,Slide56811,Slide64103,Slide46888,Slide54558,Slide64223,Slide47061,Slide57837,Slide64343,Slide47234,Slide55106,Slide64463,Slide47505,Slide58851,Slide64703,Slide47580,Slide63434,Slide61807,Slide72957,Slide73687,Slide69208,Slide71364,Slide48014,Slide59239',
 questionSlides:'Slide53988,Slide56811,Slide54558,Slide57837,Slide55106,Slide58851,Slide61807,Slide69208',
 slideVideos:['si60497','si63453','si60566','si46763','si46838','si47011','si47184','si47455','si47530','si71138'],
-questions:'Slide53988q0,Slide54558q2,Slide55106q4,Slide56811q1,Slide57837q3,Slide58851q5,Slide61807q7,Slide69208q7',
+questions:'Slide53988q0,Slide54558q2,Slide55106q4,Slide56811q1,Slide57837q3,Slide58851q5,Slide61807q6,Slide69208q7',
 autoplay:false,
 preloader:true,
 preloaderFileName:'dr/loading.gif',
@@ -112979,15 +112979,6 @@ ipiv:{
 
 }
 ,{
-ip:'dr/027590.png',
-ipiv:{
-430:1,
-768:1,
-1366:1
-}
-
-}
-,{
 ip:'dr/032968.svg',
 ipiv:{
 430:1,
@@ -113228,7 +113219,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:12,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
 }
 
 }
@@ -113263,7 +113254,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:17,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
 }
 
 }
@@ -113284,7 +113275,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:20,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
 }
 
 }
@@ -113305,7 +113296,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:23,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
 }
 
 }
@@ -113326,7 +113317,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:26,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
 }
 
 }
@@ -113347,7 +113338,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:29,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
 }
 
 }
@@ -113361,7 +113352,7 @@ resources:['dr/018914.svg']
 ,{
 slideID:31,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/043942.gif']
+resources:['dr/018914.svg','dr/020370.svg','dr/043942.gif']
 }
 
 }
@@ -113375,7 +113366,7 @@ resources:['dr/018914.svg','dr/020546.svg']
 ,{
 slideID:33,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
 }
 
 }
