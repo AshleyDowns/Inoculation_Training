@@ -9,8 +9,8 @@ lang:''
 Slide390:{
 lb:'',
 id:390,
-from:1,
-to:90,
+from:32201,
+to:32290,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -16498,11 +16498,11 @@ iid:[65187]
 ,
 qs:'',
 iph:{
-65183:{
+65176:{
 ts:''
 }
 ,
-65176:{
+65183:{
 ts:''
 }
 ,
@@ -26811,11 +26811,11 @@ iid:[65372]
 ,
 qs:'',
 iph:{
-65361:{
+65368:{
 ts:''
 }
 ,
-65368:{
+65361:{
 ts:''
 }
 ,
@@ -30394,11 +30394,11 @@ iid:[65557]
 ,
 qs:'',
 iph:{
-65553:{
+65546:{
 ts:''
 }
 ,
-65546:{
+65553:{
 ts:''
 }
 ,
@@ -77900,11 +77900,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-67853:{
+67846:{
 ts:''
 }
 ,
-67846:{
+67853:{
 ts:''
 }
 
@@ -83293,11 +83293,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-68016:{
+68023:{
 ts:''
 }
 ,
-68023:{
+68016:{
 ts:''
 }
 
@@ -102389,11 +102389,11 @@ iid:[71362]
 ,
 qs:'',
 iph:{
-71191:{
+71174:{
 ts:''
 }
 ,
-71174:{
+71191:{
 ts:''
 }
 ,
@@ -109337,7 +109337,7 @@ se:false
 ,
 osa:'{"scripts":[{"then":[["cp.goToSlide(71392,59239);"]]}]}',
 stsi:true,
-ofa:'{"scripts":[{"then":[["cp.openURL(\\"https://cornell.ca1.qualtrics.com/jfe/form/SV_1BRAmsPvFJ1G5ro\\",\\"_self\\");"]]}]}',
+ofa:'{"scripts":[{"then":[["cp.openURL(\\"https://cornell.ca1.qualtrics.com/jfe/form/SV_ehBqzS3BbTja79c\\",\\"_self\\");"]]}]}',
 bph:[]
 ,
 bookmarks:[]
@@ -109383,8 +109383,8 @@ visible:'1'
 si59261:{
 name:'Paragraph_37',
 type:1268,
-from:32111,
-to:32200,
+from:32291,
+to:32380,
 rp:0,
 rpa:0,
 mdi:'si59261c',
@@ -109551,8 +109551,8 @@ vb:[-1,-1,1,1]
 si59269:{
 name:'Paragraph_Group_31',
 type:1268,
-from:32111,
-to:32200,
+from:32291,
+to:32380,
 rp:0,
 rpa:0,
 mdi:'si59269c',
@@ -109877,8 +109877,8 @@ vb:[-1,-1,2,2]
 si59285:{
 name:'Text_1118',
 type:1250,
-from:32111,
-to:32200,
+from:32291,
+to:32380,
 rp:0,
 rpa:0,
 mdi:'si59285c',
@@ -109908,7 +109908,7 @@ efph:{
 eflh:[],
 iflbx:false,
 ipflbx:true,
-text:'{"blocks":[{"key":"e6r7m","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"presetId":"text-subheading-3","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true"}},{"key":"24mpd","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}},{"key":"cdi4u","text":"There is power in remembering HARMS. Sharing it. Reflecting on it.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":66,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":66,"style":"textShadowColor:#19191929"},{"offset":0,"length":66,"style":"textShadow:none"},{"offset":0,"length":66,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":66,"style":"hlnkt:wp"},{"offset":0,"length":66,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":66,"style":"textOutlineEnable:false"},{"offset":0,"length":66,"style":"fontStyle:normal"},{"offset":0,"length":66,"style":"opacity:1"},{"offset":0,"length":66,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":66,"style":"tablet-fontSize:22"},{"offset":18,"length":17,"style":"color:#f3de8a"},{"offset":37,"length":10,"style":"color:#f3de8a"},{"offset":49,"length":16,"style":"color:#f3de8a"},{"offset":0,"length":66,"style":"hlnke:true"},{"offset":0,"length":66,"style":"defaultTextShadow:none"},{"offset":0,"length":66,"style":"backgroundColor:unset"},{"offset":0,"length":66,"style":"mobile-fontSize:18"},{"offset":0,"length":66,"style":"textShadowX:0px"},{"offset":0,"length":66,"style":"fontStretch:normal"},{"offset":0,"length":66,"style":"fontType:regular"},{"offset":0,"length":66,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":66,"style":"textShadowY:4px"},{"offset":0,"length":66,"style":"lineHeight:115%"},{"offset":0,"length":66,"style":"letterSpacing:0%"},{"offset":0,"length":66,"style":"textHighlightEnable:false"},{"offset":0,"length":66,"style":"textTransform:none"},{"offset":0,"length":66,"style":"textShadowOpacity:none"},{"offset":0,"length":66,"style":"overridden:true"},{"offset":0,"length":66,"style":"textDecoration:none"},{"offset":0,"length":66,"style":"desktop-fontSize:30"},{"offset":0,"length":66,"style":"fontFamily:Georgia"},{"offset":0,"length":66,"style":"borderBottomStyle:none"},{"offset":0,"length":18,"style":"color:#F5F5F4"},{"offset":35,"length":2,"style":"color:#F5F5F4"},{"offset":47,"length":2,"style":"color:#F5F5F4"},{"offset":65,"length":1,"style":"color:#F5F5F4"},{"offset":0,"length":66,"style":"textShadowEnable:false"},{"offset":0,"length":66,"style":"hlnk:"},{"offset":0,"length":66,"style":"fontWeight:normal"},{"offset":0,"length":66,"style":"textShadowBlur:8px"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-3","listSize":"100%"}},{"key":"84snr","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}},{"key":"1barn","text":"You will start by revisiting some of the prior surveys we asked you to complete.   ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":83,"style":"overridden:true"},{"offset":0,"length":83,"style":"hlnkt:wp"},{"offset":0,"length":83,"style":"textOutlineEnable:false"},{"offset":0,"length":83,"style":"opacity:1"},{"offset":0,"length":83,"style":"hlnke:true"},{"offset":0,"length":83,"style":"backgroundColor:unset"},{"offset":0,"length":83,"style":"fontType:regular"},{"offset":0,"length":83,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":83,"style":"textHighlightEnable:false"},{"offset":0,"length":83,"style":"desktop-fontSize:30"},{"offset":0,"length":83,"style":"fontFamily:Georgia"},{"offset":0,"length":83,"style":"textShadowEnable:false"},{"offset":0,"length":83,"style":"hlnk:"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}}],"entityMap":{}}',
+text:'{"blocks":[{"key":"e6r7m","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"presetId":"text-subheading-3","listDepth":"0","listType":"S_Bullets08","listIndent":"100%","listSize":"100%","listColor":"#666666","overridden":"true"}},{"key":"24mpd","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}},{"key":"cdi4u","text":"There is power in remembering HARMS. Sharing it. Reflecting on it.","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":66,"style":"mobile-fontSize:18"},{"offset":0,"length":66,"style":"textShadowX:0px"},{"offset":0,"length":66,"style":"fontStretch:normal"},{"offset":0,"length":66,"style":"fontType:regular"},{"offset":0,"length":66,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":66,"style":"textShadowY:4px"},{"offset":0,"length":66,"style":"lineHeight:115%"},{"offset":0,"length":66,"style":"letterSpacing:0%"},{"offset":0,"length":66,"style":"textHighlightEnable:false"},{"offset":0,"length":66,"style":"textTransform:none"},{"offset":0,"length":66,"style":"textShadowOpacity:none"},{"offset":0,"length":66,"style":"overridden:true"},{"offset":0,"length":66,"style":"textDecoration:none"},{"offset":0,"length":66,"style":"desktop-fontSize:30"},{"offset":0,"length":66,"style":"fontFamily:Georgia"},{"offset":0,"length":66,"style":"borderBottomStyle:none"},{"offset":0,"length":18,"style":"color:#F5F5F4"},{"offset":35,"length":2,"style":"color:#F5F5F4"},{"offset":47,"length":2,"style":"color:#F5F5F4"},{"offset":65,"length":1,"style":"color:#F5F5F4"},{"offset":0,"length":66,"style":"textShadowEnable:false"},{"offset":0,"length":66,"style":"hlnk:"},{"offset":0,"length":66,"style":"fontWeight:normal"},{"offset":0,"length":66,"style":"textShadowBlur:8px"},{"offset":0,"length":66,"style":"WebkitTextStrokeColor:#191919"},{"offset":0,"length":66,"style":"textShadowColor:#19191929"},{"offset":0,"length":66,"style":"textShadow:none"},{"offset":0,"length":66,"style":"WebkitTextStrokeWidth:1px"},{"offset":0,"length":66,"style":"hlnkt:wp"},{"offset":0,"length":66,"style":"defaultTextStrokeColor:#191919"},{"offset":0,"length":66,"style":"textOutlineEnable:false"},{"offset":0,"length":66,"style":"fontStyle:normal"},{"offset":0,"length":66,"style":"opacity:1"},{"offset":0,"length":66,"style":"defaultTextStrokeWidth:1px"},{"offset":0,"length":66,"style":"tablet-fontSize:22"},{"offset":18,"length":17,"style":"color:#f3de8a"},{"offset":37,"length":10,"style":"color:#f3de8a"},{"offset":49,"length":16,"style":"color:#f3de8a"},{"offset":0,"length":66,"style":"hlnke:true"},{"offset":0,"length":66,"style":"defaultTextShadow:none"},{"offset":0,"length":66,"style":"backgroundColor:unset"}],"entityRanges":[],"data":{"listDepth":"0","listColor":"#666666","verticalAlignMarginBottom":"0px","listIndent":"100%","overridden":"true","marginLeft":"0px","verticalAlignMarginTop":"auto","listType":"S_Bullets08","textAlign":"left","marginBottom":"0%","presetId":"text-subheading-3","listSize":"100%"}},{"key":"84snr","text":"","type":"unstyled","depth":0,"inlineStyleRanges":[],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}},{"key":"1barn","text":"You will start by answering a few questions, and revisiting some of the prior surveys we asked","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":94,"style":"backgroundColor:unset"},{"offset":0,"length":94,"style":"fontType:regular"},{"offset":0,"length":94,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":94,"style":"textHighlightEnable:false"},{"offset":0,"length":94,"style":"desktop-fontSize:30"},{"offset":0,"length":94,"style":"fontFamily:Georgia"},{"offset":0,"length":94,"style":"textShadowEnable:false"},{"offset":0,"length":94,"style":"hlnk:"},{"offset":0,"length":94,"style":"overridden:true"},{"offset":0,"length":94,"style":"hlnkt:wp"},{"offset":0,"length":94,"style":"textOutlineEnable:false"},{"offset":0,"length":94,"style":"opacity:1"},{"offset":0,"length":94,"style":"hlnke:true"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}},{"key":"8dpim","text":" you to complete.   ","type":"unstyled","depth":0,"inlineStyleRanges":[{"offset":0,"length":20,"style":"overridden:true"},{"offset":0,"length":20,"style":"hlnkt:wp"},{"offset":0,"length":20,"style":"textOutlineEnable:false"},{"offset":0,"length":20,"style":"opacity:1"},{"offset":0,"length":20,"style":"hlnke:true"},{"offset":0,"length":20,"style":"backgroundColor:unset"},{"offset":0,"length":20,"style":"fontType:regular"},{"offset":0,"length":20,"style":"defaultBackgroundColor:#E8D01B"},{"offset":0,"length":20,"style":"textHighlightEnable:false"},{"offset":0,"length":20,"style":"desktop-fontSize:30"},{"offset":0,"length":20,"style":"fontFamily:Georgia"},{"offset":0,"length":20,"style":"textShadowEnable:false"},{"offset":0,"length":20,"style":"hlnk:"}],"entityRanges":[],"data":{"listType":"S_Bullets08","listColor":"#666666","listIndent":"100%","listSize":"100%","listDepth":"0","overridden":"true","presetId":"text-subheading-3"}}],"entityMap":{}}',
 autoGrow:false,
 tbqt:0,
 trin:0,
@@ -111955,8 +111955,8 @@ vb:[-2,-2,-1,-1]
 Slide59239:{
 lb:'End',
 id:59239,
-from:32111,
-to:32200,
+from:32291,
+to:32380,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -112979,6 +112979,15 @@ ipiv:{
 
 }
 ,{
+ip:'dr/027590.png',
+ipiv:{
+430:1,
+768:1,
+1366:1
+}
+
+}
+,{
 ip:'dr/032968.svg',
 ipiv:{
 430:1,
@@ -113219,7 +113228,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:12,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
 }
 
 }
@@ -113254,7 +113263,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:17,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
 }
 
 }
@@ -113275,7 +113284,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:20,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
 }
 
 }
@@ -113296,7 +113305,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:23,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
 }
 
 }
@@ -113317,7 +113326,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:26,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
 }
 
 }
@@ -113338,7 +113347,7 @@ resources:['dr/018914.svg','dr/020546.svg','dr/048399.png']
 ,{
 slideID:29,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
 }
 
 }
@@ -113352,7 +113361,7 @@ resources:['dr/018914.svg']
 ,{
 slideID:31,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/043942.gif']
+resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/043942.gif']
 }
 
 }
@@ -113366,7 +113375,7 @@ resources:['dr/018914.svg','dr/020546.svg']
 ,{
 slideID:33,
 ResourceList:{
-resources:['dr/018914.svg','dr/020370.svg','dr/062458.png']
+resources:['dr/018914.svg','dr/020370.svg','dr/027590.png','dr/062458.png']
 }
 
 }
