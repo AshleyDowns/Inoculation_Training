@@ -2054,9 +2054,9 @@ fa:1,
 fe:true,
 imgf:{
 ip:'dr/068904.png',
-tiletype:0,
+tiletype:1,
 imageFocus:0,
-extraImageProps:'',
+extraImageProps:'{"bgImageOpacity":100,"bgImageBlur":0,"bgImageBrightness":0,"bgImageContrast":0}',
 id:68904,
 w:1432,
 h:804,
@@ -4074,9 +4074,9 @@ fa:1,
 fe:true,
 imgf:{
 ip:'dr/071105.png',
-tiletype:0,
+tiletype:1,
 imageFocus:0,
-extraImageProps:'',
+extraImageProps:'{"bgImageOpacity":100,"bgImageBlur":0,"bgImageBrightness":0,"bgImageContrast":0}',
 id:71105,
 w:2422,
 h:1354,
@@ -73108,11 +73108,11 @@ iid:[66297]
 ,
 qs:'',
 iph:{
-66286:{
+66293:{
 ts:''
 }
 ,
-66293:{
+66286:{
 ts:''
 }
 ,
@@ -80732,11 +80732,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-67846:{
+67853:{
 ts:''
 }
 ,
-67853:{
+67846:{
 ts:''
 }
 
@@ -94827,11 +94827,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-72778:{
+72795:{
 ts:''
 }
 ,
-72795:{
+72778:{
 ts:''
 }
 
@@ -114846,11 +114846,11 @@ bookmarks:[]
 ,
 qs:'',
 iph:{
-68193:{
+72029:{
 ts:''
 }
 ,
-72029:{
+68193:{
 ts:''
 }
 
@@ -114885,21 +114885,21 @@ breakPoint:[{
 deviceType:1,
 width:1366,
 height:768,
-isSelected:true,
-orientation:0
+isSelected:false,
+orientation:1
 }
 ,{
 deviceType:2,
 width:768,
 height:1024,
 isSelected:false,
-orientation:0
+orientation:1
 }
 ,{
 deviceType:3,
 width:430,
 height:844,
-isSelected:false,
+isSelected:true,
 orientation:0
 }
 ,{
@@ -115496,7 +115496,7 @@ prjBgColor:'#ffffff',
 pkt:0,
 htmlBgColor:'#f5f4f1',
 shc:false,
-pN:'Inoculation v20- 3-13-26.cpt'
+pN:'Inoculation v21- 3-23-26.cpt'
 },
 projectThemeData:{
 customisations:'{"user_renames":{}}',
